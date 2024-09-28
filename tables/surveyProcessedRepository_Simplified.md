@@ -1,0 +1,16 @@
+# surveyProcessedRepository_Simplified
+|    | instrument          |   count |
+|---:|:--------------------|--------:|
+|  0 | Unknown             |       7 |
+|  1 | ENA                 |       2 |
+|  2 | NCBI                |       5 |
+|  3 | Figshare            |       2 |
+|  4 | Publication_SuppMat |       2 |
+|  5 | Dryad               |       2 |
+|  6 | GBIF                |       5 |
+|  7 | Zenodo              |       4 |
+|  8 | OBIS                |       5 |
+|  9 | BioStudies          |       1 |
+| 10 | metaPR2             |       1 |
+| 11 | MGnify              |       1 |
+| 12 | METU-IMS            |       1 |

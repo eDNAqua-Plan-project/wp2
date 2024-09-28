@@ -1,0 +1,32 @@
+	barcode	count	barcode_species
+0	18S_rRNA	37	nematodes and many microeukaryota
+1	16S_rRNA	35	bacteria
+2	COX1	30	invertebrates, vertebrates
+4	ITS1-5.8S-ITS2	17	fungi
+7	12S_rRNA	17	fish, amphibians
+5	rbcl	11	diatoms/plants
+29	Metagenome	2	
+23	cyrA	1	
+20	sxtI	1	
+21	anaC	1	
+22	anaF	1	
+26	cyrJ	1	
+24	cyrB	1	
+25	cyrC	1	
+18	sxtG	1	
+27	pca	1	
+28	mtDNA_ControlRegion	1	
+19	sxtH	1	
+15	mcyF	1	
+17	sxtA	1	
+16	mcyG	1	
+14	mcyE	1	
+13	mcyD	1	
+12	mcyC	1	
+11	mcyB	1	
+10	mcyA	1	
+9	Cytb	1	fish
+8	23S_rRNA	1	microalgae / algae
+6	TROLL	1	
+3	28S_rRNA	1	protists
+30	Metatranscriptome	1	

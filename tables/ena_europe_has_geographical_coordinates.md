@@ -1,0 +1,5 @@
+# has_geographical_coordinates
+| has_geographical_coordinates   |   count | percentage   |
+|:-------------------------------|--------:|:-------------|
+| True                           |  135069 | 84.53%       |
+| False                          |   24715 | 15.47%       |

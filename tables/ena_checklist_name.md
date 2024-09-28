@@ -1,0 +1,18 @@
+# ena_checklist_name
+| ena_checklist_name                                                       |   count | percentage   |
+|:-------------------------------------------------------------------------|--------:|:-------------|
+| ENA default sample checklist                                             |  363732 | 76.42%       |
+| GSC MIxS water                                                           |   36896 | 7.75%        |
+| GSC MIxS soil                                                            |   16134 | 3.39%        |
+| GSC MIxS sediment                                                        |   14915 | 3.13%        |
+| ENA UniEuk_EukBank Checklist                                             |   10553 | 2.22%        |
+| GSC MIxS plant associated                                                |    9006 | 1.89%        |
+| ENA Tara Oceans                                                          |    7832 | 1.65%        |
+| GSC MIxS miscellaneous natural or artificial environment                 |    7798 | 1.64%        |
+| GSC MIxS wastewater sludge                                               |    4410 | 0.93%        |
+| ENA Micro B3                                                             |    3054 | 0.64%        |
+| GSC MIxS air                                                             |     624 | 0.13%        |
+| GSC MIxS host associated                                                 |     396 | 0.08%        |
+| ENA sewage checklist                                                     |     299 | 0.06%        |
+| ENA Global Microbial Identifier reporting standard checklist GMI_MDM:1.1 |     254 | 0.05%        |
+| GSC MIxS built environment                                               |      78 | 0.02%        |
