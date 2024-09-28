@@ -1,0 +1,1363 @@
+CHECKLIST_ID	CHECKLIST_FIELD_ID	CHECKLIST_FIELD_MANDATORY	CHECKLIST_NAME	CHECKLIST_FIELD_NAME
+ERC000011	145	N	ENA default sample checklist	bio_material
+ERC000011	92	N	ENA default sample checklist	cell_line
+ERC000011	93	N	ENA default sample checklist	cell_type
+ERC000011	147	N	ENA default sample checklist	collected_by
+ERC000011	224	Y	ENA default sample checklist	collection date
+ERC000011	74	N	ENA default sample checklist	cultivar
+ERC000011	299	N	ENA default sample checklist	culture_collection
+ERC000011	94	N	ENA default sample checklist	dev_stage
+ERC000011	55	N	ENA default sample checklist	ecotype
+ERC000011	335	N	ENA default sample checklist	environmental_sample
+ERC000011	530	Y	ENA default sample checklist	geographic location (country and/or sea)
+ERC000011	531	N	ENA default sample checklist	geographic location (region and locality)
+ERC000011	76	N	ENA default sample checklist	germline
+ERC000011	341	N	ENA default sample checklist	host scientific name
+ERC000011	179	N	ENA default sample checklist	identified_by
+ERC000011	58	N	ENA default sample checklist	isolate
+ERC000011	261	N	ENA default sample checklist	isolation_source
+ERC000011	84	N	ENA default sample checklist	lab_host
+ERC000011	60	N	ENA default sample checklist	lat_lon
+ERC000011	132	N	ENA default sample checklist	mating_type
+ERC000011	89	N	ENA default sample checklist	serotype
+ERC000011	64	N	ENA default sample checklist	serovar
+ERC000011	39	N	ENA default sample checklist	sex
+ERC000011	267	N	ENA default sample checklist	specimen_voucher
+ERC000011	50	N	ENA default sample checklist	strain
+ERC000011	138	N	ENA default sample checklist	sub_species
+ERC000011	122	N	ENA default sample checklist	sub_strain
+ERC000011	124	N	ENA default sample checklist	tissue_lib
+ERC000011	142	N	ENA default sample checklist	tissue_type
+ERC000011	68	N	ENA default sample checklist	variety
+ERC000012	71	N	GSC MIxS air	adapters
+ERC000012	479	N	GSC MIxS air	air particulate matter concentration
+ERC000012	484	Y	GSC MIxS air	altitude
+ERC000012	509	N	GSC MIxS air	amount or size of sample collected
+ERC000012	281	N	GSC MIxS air	annotation source
+ERC000012	316	N	GSC MIxS air	barometric pressure
+ERC000012	318	Y	GSC MIxS air	broad-scale environmental context
+ERC000012	195	N	GSC MIxS air	carbon dioxide
+ERC000012	223	N	GSC MIxS air	carbon monoxide
+ERC000012	402	N	GSC MIxS air	chemical administration
+ERC000012	173	N	GSC MIxS air	chimera check software
+ERC000012	224	Y	GSC MIxS air	collection date
+ERC000012	493	N	GSC MIxS air	elevation
+ERC000012	198	N	GSC MIxS air	encoded traits
+ERC000012	387	Y	GSC MIxS air	environmental medium
+ERC000012	199	N	GSC MIxS air	estimated size
+ERC000012	319	N	GSC MIxS air	experimental factor
+ERC000012	430	N	GSC MIxS air	extrachromosomal elements
+ERC000012	530	Y	GSC MIxS air	geographic location (country and/or sea)
+ERC000012	486	Y	GSC MIxS air	geographic location (latitude)
+ERC000012	494	Y	GSC MIxS air	geographic location (longitude)
+ERC000012	531	N	GSC MIxS air	geographic location (region and locality)
+ERC000012	321	N	GSC MIxS air	host disease status
+ERC000012	341	N	GSC MIxS air	host scientific name
+ERC000012	82	N	GSC MIxS air	humidity
+ERC000012	491	N	GSC MIxS air	isolation and growth condition
+ERC000012	323	N	GSC MIxS air	known pathogenicity
+ERC000012	454	N	GSC MIxS air	library construction method
+ERC000012	404	N	GSC MIxS air	library reads sequenced
+ERC000012	443	N	GSC MIxS air	library screening strategy
+ERC000012	157	N	GSC MIxS air	library size
+ERC000012	207	N	GSC MIxS air	library vector
+ERC000012	355	Y	GSC MIxS air	local environmental context
+ERC000012	61	N	GSC MIxS air	methane
+ERC000012	375	N	GSC MIxS air	multiplex identifiers
+ERC000012	776	N	GSC MIxS air	negative control type
+ERC000012	444	N	GSC MIxS air	nucleic acid amplification
+ERC000012	407	N	GSC MIxS air	nucleic acid extraction
+ERC000012	324	N	GSC MIxS air	number of replicons
+ERC000012	469	N	GSC MIxS air	observed biotic relationship
+ERC000012	211	N	GSC MIxS air	organism count
+ERC000012	45	N	GSC MIxS air	oxygen
+ERC000012	471	N	GSC MIxS air	oxygenation status of sample
+ERC000012	212	N	GSC MIxS air	pcr conditions
+ERC000012	133	N	GSC MIxS air	pcr primers
+ERC000012	159	N	GSC MIxS air	perturbation
+ERC000012	46	N	GSC MIxS air	ploidy
+ERC000012	121	N	GSC MIxS air	pollutants
+ERC000012	777	N	GSC MIxS air	positive control type
+ERC000012	160	Y	GSC MIxS air	project name
+ERC000012	135	N	GSC MIxS air	propagation
+ERC000012	434	N	GSC MIxS air	reference for biomaterial
+ERC000012	394	N	GSC MIxS air	relationship to oxygen
+ERC000012	478	N	GSC MIxS air	relevant electronic resources
+ERC000012	522	N	GSC MIxS air	relevant standard operating procedures
+ERC000012	88	N	GSC MIxS air	salinity
+ERC000012	778	N	GSC MIxS air	sample collection device
+ERC000012	779	N	GSC MIxS air	sample collection method
+ERC000012	446	N	GSC MIxS air	sample material processing
+ERC000012	409	N	GSC MIxS air	sample storage duration
+ERC000012	410	N	GSC MIxS air	sample storage location
+ERC000012	448	N	GSC MIxS air	sample storage temperature
+ERC000012	537	N	GSC MIxS air	sample volume or weight for DNA extraction
+ERC000012	395	N	GSC MIxS air	sequence quality check
+ERC000012	266	N	GSC MIxS air	solar irradiance
+ERC000012	459	N	GSC MIxS air	source material identifiers
+ERC000012	460	N	GSC MIxS air	subspecific genetic lineage
+ERC000012	139	N	GSC MIxS air	target gene
+ERC000012	310	N	GSC MIxS air	target subfragment
+ERC000012	703	N	GSC MIxS air	taxonomic classification
+ERC000012	140	N	GSC MIxS air	temperature
+ERC000012	185	N	GSC MIxS air	trophic level
+ERC000012	274	N	GSC MIxS air	ventilation rate
+ERC000012	276	N	GSC MIxS air	ventilation type
+ERC000012	450	N	GSC MIxS air	volatile organic compounds
+ERC000012	217	N	GSC MIxS air	wind direction
+ERC000012	125	N	GSC MIxS air	wind speed
+ERC000020	71	N	GSC MIxS plant associated	adapters
+ERC000020	398	N	GSC MIxS plant associated	air temperature regimen
+ERC000020	484	N	GSC MIxS plant associated	altitude
+ERC000020	509	N	GSC MIxS plant associated	amount or size of sample collected
+ERC000020	633	N	GSC MIxS plant associated	ancestral data
+ERC000020	281	N	GSC MIxS plant associated	annotation source
+ERC000020	298	N	GSC MIxS plant associated	antibiotic regimen
+ERC000020	653	N	GSC MIxS plant associated	biotic regimen
+ERC000020	318	Y	GSC MIxS plant associated	broad-scale environmental context
+ERC000020	402	N	GSC MIxS plant associated	chemical administration
+ERC000020	249	N	GSC MIxS plant associated	chemical mutagen
+ERC000020	173	N	GSC MIxS plant associated	chimera check software
+ERC000020	317	N	GSC MIxS plant associated	climate environment
+ERC000020	224	Y	GSC MIxS plant associated	collection date
+ERC000020	641	N	GSC MIxS plant associated	culture rooting medium
+ERC000020	452	N	GSC MIxS plant associated	depth
+ERC000020	493	N	GSC MIxS plant associated	elevation
+ERC000020	198	N	GSC MIxS plant associated	encoded traits
+ERC000020	387	Y	GSC MIxS plant associated	environmental medium
+ERC000020	199	N	GSC MIxS plant associated	estimated size
+ERC000020	319	N	GSC MIxS plant associated	experimental factor
+ERC000020	430	N	GSC MIxS plant associated	extrachromosomal elements
+ERC000020	303	N	GSC MIxS plant associated	fertilizer administration
+ERC000020	282	N	GSC MIxS plant associated	fungicide regimen
+ERC000020	320	N	GSC MIxS plant associated	gaseous environment
+ERC000020	592	N	GSC MIxS plant associated	genetic modification
+ERC000020	530	Y	GSC MIxS plant associated	geographic location (country and/or sea)
+ERC000020	486	Y	GSC MIxS plant associated	geographic location (latitude)
+ERC000020	494	Y	GSC MIxS plant associated	geographic location (longitude)
+ERC000020	531	N	GSC MIxS plant associated	geographic location (region and locality)
+ERC000020	56	N	GSC MIxS plant associated	gravity
+ERC000020	654	N	GSC MIxS plant associated	growth facility
+ERC000020	636	N	GSC MIxS plant associated	growth habit
+ERC000020	388	N	GSC MIxS plant associated	growth hormone regimen
+ERC000020	152	N	GSC MIxS plant associated	growth media
+ERC000020	283	N	GSC MIxS plant associated	herbicide regimen
+ERC000020	77	N	GSC MIxS plant associated	host age
+ERC000020	253	N	GSC MIxS plant associated	host common name
+ERC000020	321	N	GSC MIxS plant associated	host disease status
+ERC000020	176	N	GSC MIxS plant associated	host dry mass
+ERC000020	177	N	GSC MIxS plant associated	host genotype
+ERC000020	130	N	GSC MIxS plant associated	host height
+ERC000020	131	N	GSC MIxS plant associated	host length
+ERC000020	231	N	GSC MIxS plant associated	host life stage
+ERC000020	204	N	GSC MIxS plant associated	host phenotype
+ERC000020	341	N	GSC MIxS plant associated	host scientific name
+ERC000020	775	N	GSC MIxS plant associated	host subspecific genetic lineage
+ERC000020	117	N	GSC MIxS plant associated	host taxid
+ERC000020	236	N	GSC MIxS plant associated	host total mass
+ERC000020	178	N	GSC MIxS plant associated	host wet mass
+ERC000020	257	N	GSC MIxS plant associated	humidity regimen
+ERC000020	491	N	GSC MIxS plant associated	isolation and growth condition
+ERC000020	323	N	GSC MIxS plant associated	known pathogenicity
+ERC000020	454	N	GSC MIxS plant associated	library construction method
+ERC000020	404	N	GSC MIxS plant associated	library reads sequenced
+ERC000020	443	N	GSC MIxS plant associated	library screening strategy
+ERC000020	157	N	GSC MIxS plant associated	library size
+ERC000020	207	N	GSC MIxS plant associated	library vector
+ERC000020	652	N	GSC MIxS plant associated	light regimen
+ERC000020	355	Y	GSC MIxS plant associated	local environmental context
+ERC000020	289	N	GSC MIxS plant associated	mechanical damage
+ERC000020	422	N	GSC MIxS plant associated	mineral nutrient regimen
+ERC000020	375	N	GSC MIxS plant associated	multiplex identifiers
+ERC000020	776	N	GSC MIxS plant associated	negative control type
+ERC000020	468	N	GSC MIxS plant associated	non-mineral nutrient regimen
+ERC000020	444	N	GSC MIxS plant associated	nucleic acid amplification
+ERC000020	407	N	GSC MIxS plant associated	nucleic acid extraction
+ERC000020	324	N	GSC MIxS plant associated	number of replicons
+ERC000020	469	N	GSC MIxS plant associated	observed biotic relationship
+ERC000020	804	N	GSC MIxS plant associated	observed host symbionts
+ERC000020	211	N	GSC MIxS plant associated	organism count
+ERC000020	471	N	GSC MIxS plant associated	oxygenation status of sample
+ERC000020	120	N	GSC MIxS plant associated	pH regimen
+ERC000020	212	N	GSC MIxS plant associated	pcr conditions
+ERC000020	133	N	GSC MIxS plant associated	pcr primers
+ERC000020	159	N	GSC MIxS plant associated	perturbation
+ERC000020	292	N	GSC MIxS plant associated	pesticide regimen
+ERC000020	239	N	GSC MIxS plant associated	plant body site
+ERC000020	639	N	GSC MIxS plant associated	plant growth medium
+ERC000020	182	N	GSC MIxS plant associated	plant product
+ERC000020	637	N	GSC MIxS plant associated	plant sex
+ERC000020	617	N	GSC MIxS plant associated	plant structure
+ERC000020	46	N	GSC MIxS plant associated	ploidy
+ERC000020	777	N	GSC MIxS plant associated	positive control type
+ERC000020	160	Y	GSC MIxS plant associated	project name
+ERC000020	135	N	GSC MIxS plant associated	propagation
+ERC000020	294	N	GSC MIxS plant associated	radiation regimen
+ERC000020	264	N	GSC MIxS plant associated	rainfall regimen
+ERC000020	434	N	GSC MIxS plant associated	reference for biomaterial
+ERC000020	394	N	GSC MIxS plant associated	relationship to oxygen
+ERC000020	478	N	GSC MIxS plant associated	relevant electronic resources
+ERC000020	522	N	GSC MIxS plant associated	relevant standard operating procedures
+ERC000020	640	N	GSC MIxS plant associated	rooting conditions
+ERC000020	645	N	GSC MIxS plant associated	rooting medium carbon
+ERC000020	642	N	GSC MIxS plant associated	rooting medium macronutrients
+ERC000020	643	N	GSC MIxS plant associated	rooting medium micronutrients
+ERC000020	644	N	GSC MIxS plant associated	rooting medium organic supplements
+ERC000020	648	N	GSC MIxS plant associated	rooting medium pH
+ERC000020	646	N	GSC MIxS plant associated	rooting medium regulators
+ERC000020	647	N	GSC MIxS plant associated	rooting medium solidifier
+ERC000020	88	N	GSC MIxS plant associated	salinity
+ERC000020	163	N	GSC MIxS plant associated	salt regimen
+ERC000020	379	N	GSC MIxS plant associated	sample capture status
+ERC000020	778	N	GSC MIxS plant associated	sample collection device
+ERC000020	779	N	GSC MIxS plant associated	sample collection method
+ERC000020	623	N	GSC MIxS plant associated	sample disease stage
+ERC000020	622	N	GSC MIxS plant associated	sample disease status
+ERC000020	446	N	GSC MIxS plant associated	sample material processing
+ERC000020	409	N	GSC MIxS plant associated	sample storage duration
+ERC000020	410	N	GSC MIxS plant associated	sample storage location
+ERC000020	448	N	GSC MIxS plant associated	sample storage temperature
+ERC000020	537	N	GSC MIxS plant associated	sample volume or weight for DNA extraction
+ERC000020	343	N	GSC MIxS plant associated	seasonal environment
+ERC000020	395	N	GSC MIxS plant associated	sequence quality check
+ERC000020	459	N	GSC MIxS plant associated	source material identifiers
+ERC000020	396	N	GSC MIxS plant associated	standing water regimen
+ERC000020	460	N	GSC MIxS plant associated	subspecific genetic lineage
+ERC000020	139	N	GSC MIxS plant associated	target gene
+ERC000020	310	N	GSC MIxS plant associated	target subfragment
+ERC000020	703	N	GSC MIxS plant associated	taxonomic classification
+ERC000020	140	N	GSC MIxS plant associated	temperature
+ERC000020	461	N	GSC MIxS plant associated	tissue culture growth media
+ERC000020	185	N	GSC MIxS plant associated	trophic level
+ERC000020	437	N	GSC MIxS plant associated	water temperature regimen
+ERC000020	278	N	GSC MIxS plant associated	watering regimen
+ERC000021	71	N	GSC MIxS sediment	adapters
+ERC000021	112	N	GSC MIxS sediment	alkalinity
+ERC000021	193	N	GSC MIxS sediment	alkyl diethers
+ERC000021	484	N	GSC MIxS sediment	altitude
+ERC000021	399	N	GSC MIxS sediment	aminopeptidase activity
+ERC000021	72	N	GSC MIxS sediment	ammonium
+ERC000021	509	N	GSC MIxS sediment	amount or size of sample collected
+ERC000021	281	N	GSC MIxS sediment	annotation source
+ERC000021	451	N	GSC MIxS sediment	bacterial carbon production
+ERC000021	51	N	GSC MIxS sediment	biomass
+ERC000021	194	N	GSC MIxS sediment	bishomohopanol
+ERC000021	318	Y	GSC MIxS sediment	broad-scale environmental context
+ERC000021	52	N	GSC MIxS sediment	bromide
+ERC000021	53	N	GSC MIxS sediment	calcium
+ERC000021	354	N	GSC MIxS sediment	carbon/nitrogen ratio
+ERC000021	402	N	GSC MIxS sediment	chemical administration
+ERC000021	173	N	GSC MIxS sediment	chimera check software
+ERC000021	73	N	GSC MIxS sediment	chloride
+ERC000021	128	N	GSC MIxS sediment	chlorophyll
+ERC000021	224	Y	GSC MIxS sediment	collection date
+ERC000021	54	N	GSC MIxS sediment	density
+ERC000021	452	Y	GSC MIxS sediment	depth
+ERC000021	197	N	GSC MIxS sediment	diether lipids
+ERC000021	415	N	GSC MIxS sediment	dissolved carbon dioxide
+ERC000021	301	N	GSC MIxS sediment	dissolved hydrogen
+ERC000021	439	N	GSC MIxS sediment	dissolved inorganic carbon
+ERC000021	416	N	GSC MIxS sediment	dissolved organic carbon
+ERC000021	440	N	GSC MIxS sediment	dissolved organic nitrogen
+ERC000021	251	N	GSC MIxS sediment	dissolved oxygen
+ERC000021	493	Y	GSC MIxS sediment	elevation
+ERC000021	198	N	GSC MIxS sediment	encoded traits
+ERC000021	387	Y	GSC MIxS sediment	environmental medium
+ERC000021	199	N	GSC MIxS sediment	estimated size
+ERC000021	319	N	GSC MIxS sediment	experimental factor
+ERC000021	430	N	GSC MIxS sediment	extrachromosomal elements
+ERC000021	530	Y	GSC MIxS sediment	geographic location (country and/or sea)
+ERC000021	486	Y	GSC MIxS sediment	geographic location (latitude)
+ERC000021	494	Y	GSC MIxS sediment	geographic location (longitude)
+ERC000021	531	N	GSC MIxS sediment	geographic location (region and locality)
+ERC000021	337	N	GSC MIxS sediment	glucosidase activity
+ERC000021	321	N	GSC MIxS sediment	host disease status
+ERC000021	341	N	GSC MIxS sediment	host scientific name
+ERC000021	491	N	GSC MIxS sediment	isolation and growth condition
+ERC000021	323	N	GSC MIxS sediment	known pathogenicity
+ERC000021	454	N	GSC MIxS sediment	library construction method
+ERC000021	404	N	GSC MIxS sediment	library reads sequenced
+ERC000021	443	N	GSC MIxS sediment	library screening strategy
+ERC000021	157	N	GSC MIxS sediment	library size
+ERC000021	207	N	GSC MIxS sediment	library vector
+ERC000021	355	Y	GSC MIxS sediment	local environmental context
+ERC000021	100	N	GSC MIxS sediment	magnesium
+ERC000021	392	N	GSC MIxS sediment	mean friction velocity
+ERC000021	456	N	GSC MIxS sediment	mean peak friction velocity
+ERC000021	61	N	GSC MIxS sediment	methane
+ERC000021	375	N	GSC MIxS sediment	multiplex identifiers
+ERC000021	102	N	GSC MIxS sediment	n-alkanes
+ERC000021	776	N	GSC MIxS sediment	negative control type
+ERC000021	62	N	GSC MIxS sediment	nitrate
+ERC000021	63	N	GSC MIxS sediment	nitrite
+ERC000021	444	N	GSC MIxS sediment	nucleic acid amplification
+ERC000021	407	N	GSC MIxS sediment	nucleic acid extraction
+ERC000021	324	N	GSC MIxS sediment	number of replicons
+ERC000021	469	N	GSC MIxS sediment	observed biotic relationship
+ERC000021	209	N	GSC MIxS sediment	organic carbon
+ERC000021	210	N	GSC MIxS sediment	organic matter
+ERC000021	262	N	GSC MIxS sediment	organic nitrogen
+ERC000021	211	N	GSC MIxS sediment	organism count
+ERC000021	471	N	GSC MIxS sediment	oxygenation status of sample
+ERC000021	37	N	GSC MIxS sediment	pH
+ERC000021	1090	N	GSC MIxS sediment	particle classification
+ERC000021	445	N	GSC MIxS sediment	particulate organic carbon
+ERC000021	212	N	GSC MIxS sediment	pcr conditions
+ERC000021	133	N	GSC MIxS sediment	pcr primers
+ERC000021	159	N	GSC MIxS sediment	perturbation
+ERC000021	377	N	GSC MIxS sediment	petroleum hydrocarbon
+ERC000021	181	N	GSC MIxS sediment	phaeopigments
+ERC000021	106	N	GSC MIxS sediment	phosphate
+ERC000021	408	N	GSC MIxS sediment	phospholipid fatty acid
+ERC000021	46	N	GSC MIxS sediment	ploidy
+ERC000021	805	N	GSC MIxS sediment	porosity
+ERC000021	777	N	GSC MIxS sediment	positive control type
+ERC000021	107	N	GSC MIxS sediment	potassium
+ERC000021	87	N	GSC MIxS sediment	pressure
+ERC000021	160	Y	GSC MIxS sediment	project name
+ERC000021	135	N	GSC MIxS sediment	propagation
+ERC000021	240	N	GSC MIxS sediment	redox potential
+ERC000021	434	N	GSC MIxS sediment	reference for biomaterial
+ERC000021	394	N	GSC MIxS sediment	relationship to oxygen
+ERC000021	478	N	GSC MIxS sediment	relevant electronic resources
+ERC000021	522	N	GSC MIxS sediment	relevant standard operating procedures
+ERC000021	88	N	GSC MIxS sediment	salinity
+ERC000021	778	N	GSC MIxS sediment	sample collection device
+ERC000021	779	N	GSC MIxS sediment	sample collection method
+ERC000021	446	N	GSC MIxS sediment	sample material processing
+ERC000021	409	N	GSC MIxS sediment	sample storage duration
+ERC000021	410	N	GSC MIxS sediment	sample storage location
+ERC000021	448	N	GSC MIxS sediment	sample storage temperature
+ERC000021	537	N	GSC MIxS sediment	sample volume or weight for DNA extraction
+ERC000021	985	N	GSC MIxS sediment	sediment type
+ERC000021	395	N	GSC MIxS sediment	sequence quality check
+ERC000021	90	N	GSC MIxS sediment	silicate
+ERC000021	48	N	GSC MIxS sediment	sodium
+ERC000021	459	N	GSC MIxS sediment	source material identifiers
+ERC000021	460	N	GSC MIxS sediment	subspecific genetic lineage
+ERC000021	65	N	GSC MIxS sediment	sulfate
+ERC000021	66	N	GSC MIxS sediment	sulfide
+ERC000021	139	N	GSC MIxS sediment	target gene
+ERC000021	310	N	GSC MIxS sediment	target subfragment
+ERC000021	703	N	GSC MIxS sediment	taxonomic classification
+ERC000021	140	N	GSC MIxS sediment	temperature
+ERC000021	141	N	GSC MIxS sediment	tidal stage
+ERC000021	166	N	GSC MIxS sediment	total carbon
+ERC000021	462	N	GSC MIxS sediment	total depth of water column
+ERC000021	86	N	GSC MIxS sediment	total nitrogen concentration
+ERC000021	215	N	GSC MIxS sediment	total nitrogen content
+ERC000021	345	N	GSC MIxS sediment	total organic carbon
+ERC000021	185	N	GSC MIxS sediment	trophic level
+ERC000021	111	N	GSC MIxS sediment	turbidity
+ERC000021	187	N	GSC MIxS sediment	water content
+ERC000022	71	N	GSC MIxS soil	adapters
+ERC000022	484	N	GSC MIxS soil	altitude
+ERC000022	509	N	GSC MIxS soil	amount or size of sample collected
+ERC000022	281	N	GSC MIxS soil	annotation source
+ERC000022	318	Y	GSC MIxS soil	broad-scale environmental context
+ERC000022	173	N	GSC MIxS soil	chimera check software
+ERC000022	224	Y	GSC MIxS soil	collection date
+ERC000022	250	N	GSC MIxS soil	current land use
+ERC000022	300	N	GSC MIxS soil	current vegetation
+ERC000022	429	N	GSC MIxS soil	current vegetation method
+ERC000022	452	Y	GSC MIxS soil	depth
+ERC000022	403	N	GSC MIxS soil	drainage classification
+ERC000022	493	Y	GSC MIxS soil	elevation
+ERC000022	198	N	GSC MIxS soil	encoded traits
+ERC000022	387	Y	GSC MIxS soil	environmental medium
+ERC000022	199	N	GSC MIxS soil	estimated size
+ERC000022	319	N	GSC MIxS soil	experimental factor
+ERC000022	430	N	GSC MIxS soil	extrachromosomal elements
+ERC000022	526	N	GSC MIxS soil	extreme_unusual_properties/Al saturation
+ERC000022	542	N	GSC MIxS soil	extreme_unusual_properties/Al saturation method
+ERC000022	523	N	GSC MIxS soil	extreme_unusual_properties/heavy metals
+ERC000022	541	N	GSC MIxS soil	extreme_unusual_properties/heavy metals method
+ERC000022	530	Y	GSC MIxS soil	geographic location (country and/or sea)
+ERC000022	486	Y	GSC MIxS soil	geographic location (latitude)
+ERC000022	494	Y	GSC MIxS soil	geographic location (longitude)
+ERC000022	531	N	GSC MIxS soil	geographic location (region and locality)
+ERC000022	488	N	GSC MIxS soil	history/agrochemical additions
+ERC000022	371	N	GSC MIxS soil	history/crop rotation
+ERC000022	390	N	GSC MIxS soil	history/extreme events
+ERC000022	153	N	GSC MIxS soil	history/fire
+ERC000022	252	N	GSC MIxS soil	history/flooding
+ERC000022	431	N	GSC MIxS soil	history/previous land use
+ERC000022	228	N	GSC MIxS soil	history/tillage
+ERC000022	200	N	GSC MIxS soil	horizon method
+ERC000022	321	N	GSC MIxS soil	host disease status
+ERC000022	341	N	GSC MIxS soil	host scientific name
+ERC000022	786	N	GSC MIxS soil	host specificity or range
+ERC000022	491	N	GSC MIxS soil	isolation and growth condition
+ERC000022	323	N	GSC MIxS soil	known pathogenicity
+ERC000022	454	N	GSC MIxS soil	library construction method
+ERC000022	404	N	GSC MIxS soil	library reads sequenced
+ERC000022	443	N	GSC MIxS soil	library screening strategy
+ERC000022	157	N	GSC MIxS soil	library size
+ERC000022	207	N	GSC MIxS soil	library vector
+ERC000022	512	N	GSC MIxS soil	link to classification information
+ERC000022	455	N	GSC MIxS soil	link to climate information
+ERC000022	467	N	GSC MIxS soil	links to additional analysis
+ERC000022	355	Y	GSC MIxS soil	local environmental context
+ERC000022	521	N	GSC MIxS soil	mean annual precipitation
+ERC000022	519	N	GSC MIxS soil	mean annual temperature
+ERC000022	1203	N	GSC MIxS soil	mean seasonal precipitation
+ERC000022	1202	N	GSC MIxS soil	mean seasonal temperature
+ERC000022	290	N	GSC MIxS soil	microbial biomass
+ERC000022	421	N	GSC MIxS soil	microbial biomass method
+ERC000022	375	N	GSC MIxS soil	multiplex identifiers
+ERC000022	776	N	GSC MIxS soil	negative control type
+ERC000022	444	N	GSC MIxS soil	nucleic acid amplification
+ERC000022	407	N	GSC MIxS soil	nucleic acid extraction
+ERC000022	324	N	GSC MIxS soil	number of replicons
+ERC000022	469	N	GSC MIxS soil	observed biotic relationship
+ERC000022	210	N	GSC MIxS soil	organic matter
+ERC000022	262	N	GSC MIxS soil	organic nitrogen
+ERC000022	37	N	GSC MIxS soil	pH
+ERC000022	103	N	GSC MIxS soil	pH method
+ERC000022	212	N	GSC MIxS soil	pcr conditions
+ERC000022	133	N	GSC MIxS soil	pcr primers
+ERC000022	159	N	GSC MIxS soil	perturbation
+ERC000022	46	N	GSC MIxS soil	ploidy
+ERC000022	777	N	GSC MIxS soil	positive control type
+ERC000022	498	N	GSC MIxS soil	previous land use method
+ERC000022	263	N	GSC MIxS soil	profile position
+ERC000022	160	Y	GSC MIxS soil	project name
+ERC000022	135	N	GSC MIxS soil	propagation
+ERC000022	434	N	GSC MIxS soil	reference for biomaterial
+ERC000022	394	N	GSC MIxS soil	relationship to oxygen
+ERC000022	478	N	GSC MIxS soil	relevant electronic resources
+ERC000022	522	N	GSC MIxS soil	relevant standard operating procedures
+ERC000022	536	N	GSC MIxS soil	salinity method
+ERC000022	778	N	GSC MIxS soil	sample collection device
+ERC000022	779	N	GSC MIxS soil	sample collection method
+ERC000022	446	N	GSC MIxS soil	sample material processing
+ERC000022	506	N	GSC MIxS soil	sample pooling
+ERC000022	435	N	GSC MIxS soil	sample storage conditions
+ERC000022	537	N	GSC MIxS soil	sample volume or weight for DNA extraction
+ERC000022	395	N	GSC MIxS soil	sequence quality check
+ERC000022	505	N	GSC MIxS soil	sieving
+ERC000022	164	N	GSC MIxS soil	slope aspect
+ERC000022	213	N	GSC MIxS soil	slope gradient
+ERC000022	57	N	GSC MIxS soil	soil horizon
+ERC000022	67	N	GSC MIxS soil	soil texture measurement
+ERC000022	214	N	GSC MIxS soil	soil texture method
+ERC000022	109	N	GSC MIxS soil	soil type
+ERC000022	265	N	GSC MIxS soil	soil type method
+ERC000022	507	N	GSC MIxS soil	soil_taxonomic/FAO classification
+ERC000022	516	N	GSC MIxS soil	soil_taxonomic/local classification
+ERC000022	538	N	GSC MIxS soil	soil_taxonomic/local classification method
+ERC000022	459	N	GSC MIxS soil	source material identifiers
+ERC000022	460	N	GSC MIxS soil	subspecific genetic lineage
+ERC000022	139	N	GSC MIxS soil	target gene
+ERC000022	310	N	GSC MIxS soil	target subfragment
+ERC000022	703	N	GSC MIxS soil	taxonomic classification
+ERC000022	140	N	GSC MIxS soil	temperature
+ERC000022	215	N	GSC MIxS soil	total nitrogen content
+ERC000022	381	N	GSC MIxS soil	total nitrogen content method
+ERC000022	345	N	GSC MIxS soil	total organic carbon
+ERC000022	397	N	GSC MIxS soil	total organic carbon method
+ERC000022	185	N	GSC MIxS soil	trophic level
+ERC000022	187	N	GSC MIxS soil	water content
+ERC000022	347	N	GSC MIxS soil	water content method
+ERC000023	71	N	GSC MIxS wastewater sludge	adapters
+ERC000023	112	N	GSC MIxS wastewater sludge	alkalinity
+ERC000023	484	N	GSC MIxS wastewater sludge	altitude
+ERC000023	509	N	GSC MIxS wastewater sludge	amount or size of sample collected
+ERC000023	281	N	GSC MIxS wastewater sludge	annotation source
+ERC000023	428	N	GSC MIxS wastewater sludge	biochemical oxygen demand
+ERC000023	318	Y	GSC MIxS wastewater sludge	broad-scale environmental context
+ERC000023	402	N	GSC MIxS wastewater sludge	chemical administration
+ERC000023	385	N	GSC MIxS wastewater sludge	chemical oxygen demand
+ERC000023	173	N	GSC MIxS wastewater sludge	chimera check software
+ERC000023	224	Y	GSC MIxS wastewater sludge	collection date
+ERC000023	452	N	GSC MIxS wastewater sludge	depth
+ERC000023	302	N	GSC MIxS wastewater sludge	efficiency percent
+ERC000023	493	N	GSC MIxS wastewater sludge	elevation
+ERC000023	96	N	GSC MIxS wastewater sludge	emulsions
+ERC000023	198	N	GSC MIxS wastewater sludge	encoded traits
+ERC000023	387	Y	GSC MIxS wastewater sludge	environmental medium
+ERC000023	199	N	GSC MIxS wastewater sludge	estimated size
+ERC000023	319	N	GSC MIxS wastewater sludge	experimental factor
+ERC000023	430	N	GSC MIxS wastewater sludge	extrachromosomal elements
+ERC000023	305	N	GSC MIxS wastewater sludge	gaseous substances
+ERC000023	530	Y	GSC MIxS wastewater sludge	geographic location (country and/or sea)
+ERC000023	486	Y	GSC MIxS wastewater sludge	geographic location (latitude)
+ERC000023	494	Y	GSC MIxS wastewater sludge	geographic location (longitude)
+ERC000023	531	N	GSC MIxS wastewater sludge	geographic location (region and locality)
+ERC000023	321	N	GSC MIxS wastewater sludge	host disease status
+ERC000023	341	N	GSC MIxS wastewater sludge	host scientific name
+ERC000023	453	N	GSC MIxS wastewater sludge	industrial effluent percent
+ERC000023	322	N	GSC MIxS wastewater sludge	inorganic particles
+ERC000023	491	N	GSC MIxS wastewater sludge	isolation and growth condition
+ERC000023	323	N	GSC MIxS wastewater sludge	known pathogenicity
+ERC000023	454	N	GSC MIxS wastewater sludge	library construction method
+ERC000023	404	N	GSC MIxS wastewater sludge	library reads sequenced
+ERC000023	443	N	GSC MIxS wastewater sludge	library screening strategy
+ERC000023	157	N	GSC MIxS wastewater sludge	library size
+ERC000023	207	N	GSC MIxS wastewater sludge	library vector
+ERC000023	355	Y	GSC MIxS wastewater sludge	local environmental context
+ERC000023	375	N	GSC MIxS wastewater sludge	multiplex identifiers
+ERC000023	776	N	GSC MIxS wastewater sludge	negative control type
+ERC000023	62	N	GSC MIxS wastewater sludge	nitrate
+ERC000023	444	N	GSC MIxS wastewater sludge	nucleic acid amplification
+ERC000023	407	N	GSC MIxS wastewater sludge	nucleic acid extraction
+ERC000023	324	N	GSC MIxS wastewater sludge	number of replicons
+ERC000023	469	N	GSC MIxS wastewater sludge	observed biotic relationship
+ERC000023	291	N	GSC MIxS wastewater sludge	organic particles
+ERC000023	211	N	GSC MIxS wastewater sludge	organism count
+ERC000023	471	N	GSC MIxS wastewater sludge	oxygenation status of sample
+ERC000023	37	N	GSC MIxS wastewater sludge	pH
+ERC000023	212	N	GSC MIxS wastewater sludge	pcr conditions
+ERC000023	133	N	GSC MIxS wastewater sludge	pcr primers
+ERC000023	159	N	GSC MIxS wastewater sludge	perturbation
+ERC000023	106	N	GSC MIxS wastewater sludge	phosphate
+ERC000023	46	N	GSC MIxS wastewater sludge	ploidy
+ERC000023	777	N	GSC MIxS wastewater sludge	positive control type
+ERC000023	183	N	GSC MIxS wastewater sludge	pre-treatment
+ERC000023	293	N	GSC MIxS wastewater sludge	primary treatment
+ERC000023	160	Y	GSC MIxS wastewater sludge	project name
+ERC000023	135	N	GSC MIxS wastewater sludge	propagation
+ERC000023	161	N	GSC MIxS wastewater sludge	reactor type
+ERC000023	434	N	GSC MIxS wastewater sludge	reference for biomaterial
+ERC000023	394	N	GSC MIxS wastewater sludge	relationship to oxygen
+ERC000023	478	N	GSC MIxS wastewater sludge	relevant electronic resources
+ERC000023	522	N	GSC MIxS wastewater sludge	relevant standard operating procedures
+ERC000023	88	N	GSC MIxS wastewater sludge	salinity
+ERC000023	778	N	GSC MIxS wastewater sludge	sample collection device
+ERC000023	779	N	GSC MIxS wastewater sludge	sample collection method
+ERC000023	446	N	GSC MIxS wastewater sludge	sample material processing
+ERC000023	409	N	GSC MIxS wastewater sludge	sample storage duration
+ERC000023	410	N	GSC MIxS wastewater sludge	sample storage location
+ERC000023	448	N	GSC MIxS wastewater sludge	sample storage temperature
+ERC000023	537	N	GSC MIxS wastewater sludge	sample volume or weight for DNA extraction
+ERC000023	325	N	GSC MIxS wastewater sludge	secondary treatment
+ERC000023	395	N	GSC MIxS wastewater sludge	sequence quality check
+ERC000023	137	N	GSC MIxS wastewater sludge	sewage type
+ERC000023	380	N	GSC MIxS wastewater sludge	sludge retention time
+ERC000023	48	N	GSC MIxS wastewater sludge	sodium
+ERC000023	449	N	GSC MIxS wastewater sludge	soluble inorganic material
+ERC000023	423	N	GSC MIxS wastewater sludge	soluble organic material
+ERC000023	459	N	GSC MIxS wastewater sludge	source material identifiers
+ERC000023	460	N	GSC MIxS wastewater sludge	subspecific genetic lineage
+ERC000023	272	N	GSC MIxS wastewater sludge	suspended solids
+ERC000023	139	N	GSC MIxS wastewater sludge	target gene
+ERC000023	310	N	GSC MIxS wastewater sludge	target subfragment
+ERC000023	703	N	GSC MIxS wastewater sludge	taxonomic classification
+ERC000023	140	N	GSC MIxS wastewater sludge	temperature
+ERC000023	311	N	GSC MIxS wastewater sludge	tertiary treatment
+ERC000023	86	N	GSC MIxS wastewater sludge	total nitrogen concentration
+ERC000023	215	N	GSC MIxS wastewater sludge	total nitrogen content
+ERC000023	243	N	GSC MIxS wastewater sludge	total phosphate
+ERC000023	185	N	GSC MIxS wastewater sludge	trophic level
+ERC000023	244	N	GSC MIxS wastewater sludge	wastewater type
+ERC000024	71	N	GSC MIxS water	adapters
+ERC000024	112	N	GSC MIxS water	alkalinity
+ERC000024	1144	N	GSC MIxS water	alkalinity method
+ERC000024	193	N	GSC MIxS water	alkyl diethers
+ERC000024	484	N	GSC MIxS water	altitude
+ERC000024	399	N	GSC MIxS water	aminopeptidase activity
+ERC000024	72	N	GSC MIxS water	ammonium
+ERC000024	509	N	GSC MIxS water	amount or size of sample collected
+ERC000024	281	N	GSC MIxS water	annotation source
+ERC000024	247	N	GSC MIxS water	atmospheric data
+ERC000024	451	N	GSC MIxS water	bacterial carbon production
+ERC000024	332	N	GSC MIxS water	bacterial production
+ERC000024	353	N	GSC MIxS water	bacterial respiration
+ERC000024	51	N	GSC MIxS water	biomass
+ERC000024	194	N	GSC MIxS water	bishomohopanol
+ERC000024	318	Y	GSC MIxS water	broad-scale environmental context
+ERC000024	52	N	GSC MIxS water	bromide
+ERC000024	53	N	GSC MIxS water	calcium
+ERC000024	354	N	GSC MIxS water	carbon/nitrogen ratio
+ERC000024	402	N	GSC MIxS water	chemical administration
+ERC000024	173	N	GSC MIxS water	chimera check software
+ERC000024	73	N	GSC MIxS water	chloride
+ERC000024	128	N	GSC MIxS water	chlorophyll
+ERC000024	224	Y	GSC MIxS water	collection date
+ERC000024	148	N	GSC MIxS water	conductivity
+ERC000024	54	N	GSC MIxS water	density
+ERC000024	452	Y	GSC MIxS water	depth
+ERC000024	197	N	GSC MIxS water	diether lipids
+ERC000024	415	N	GSC MIxS water	dissolved carbon dioxide
+ERC000024	301	N	GSC MIxS water	dissolved hydrogen
+ERC000024	439	N	GSC MIxS water	dissolved inorganic carbon
+ERC000024	465	N	GSC MIxS water	dissolved inorganic nitrogen
+ERC000024	483	N	GSC MIxS water	dissolved inorganic phosphorus
+ERC000024	416	N	GSC MIxS water	dissolved organic carbon
+ERC000024	440	N	GSC MIxS water	dissolved organic nitrogen
+ERC000024	251	N	GSC MIxS water	dissolved oxygen
+ERC000024	150	N	GSC MIxS water	downward PAR
+ERC000024	493	N	GSC MIxS water	elevation
+ERC000024	198	N	GSC MIxS water	encoded traits
+ERC000024	387	Y	GSC MIxS water	environmental medium
+ERC000024	199	N	GSC MIxS water	estimated size
+ERC000024	319	N	GSC MIxS water	experimental factor
+ERC000024	430	N	GSC MIxS water	extrachromosomal elements
+ERC000024	151	N	GSC MIxS water	fluorescence
+ERC000024	530	Y	GSC MIxS water	geographic location (country and/or sea)
+ERC000024	486	Y	GSC MIxS water	geographic location (latitude)
+ERC000024	494	Y	GSC MIxS water	geographic location (longitude)
+ERC000024	531	N	GSC MIxS water	geographic location (region and locality)
+ERC000024	337	N	GSC MIxS water	glucosidase activity
+ERC000024	321	N	GSC MIxS water	host disease status
+ERC000024	341	N	GSC MIxS water	host scientific name
+ERC000024	491	N	GSC MIxS water	isolation and growth condition
+ERC000024	323	N	GSC MIxS water	known pathogenicity
+ERC000024	454	N	GSC MIxS water	library construction method
+ERC000024	404	N	GSC MIxS water	library reads sequenced
+ERC000024	443	N	GSC MIxS water	library screening strategy
+ERC000024	157	N	GSC MIxS water	library size
+ERC000024	207	N	GSC MIxS water	library vector
+ERC000024	237	N	GSC MIxS water	light intensity
+ERC000024	355	Y	GSC MIxS water	local environmental context
+ERC000024	100	N	GSC MIxS water	magnesium
+ERC000024	392	N	GSC MIxS water	mean friction velocity
+ERC000024	456	N	GSC MIxS water	mean peak friction velocity
+ERC000024	375	N	GSC MIxS water	multiplex identifiers
+ERC000024	102	N	GSC MIxS water	n-alkanes
+ERC000024	776	N	GSC MIxS water	negative control type
+ERC000024	62	N	GSC MIxS water	nitrate
+ERC000024	63	N	GSC MIxS water	nitrite
+ERC000024	444	N	GSC MIxS water	nucleic acid amplification
+ERC000024	407	N	GSC MIxS water	nucleic acid extraction
+ERC000024	324	N	GSC MIxS water	number of replicons
+ERC000024	469	N	GSC MIxS water	observed biotic relationship
+ERC000024	209	N	GSC MIxS water	organic carbon
+ERC000024	210	N	GSC MIxS water	organic matter
+ERC000024	262	N	GSC MIxS water	organic nitrogen
+ERC000024	211	N	GSC MIxS water	organism count
+ERC000024	471	N	GSC MIxS water	oxygenation status of sample
+ERC000024	37	N	GSC MIxS water	pH
+ERC000024	445	N	GSC MIxS water	particulate organic carbon
+ERC000024	472	N	GSC MIxS water	particulate organic nitrogen
+ERC000024	212	N	GSC MIxS water	pcr conditions
+ERC000024	133	N	GSC MIxS water	pcr primers
+ERC000024	159	N	GSC MIxS water	perturbation
+ERC000024	377	N	GSC MIxS water	petroleum hydrocarbon
+ERC000024	181	N	GSC MIxS water	phaeopigments
+ERC000024	106	N	GSC MIxS water	phosphate
+ERC000024	408	N	GSC MIxS water	phospholipid fatty acid
+ERC000024	134	N	GSC MIxS water	photon flux
+ERC000024	46	N	GSC MIxS water	ploidy
+ERC000024	777	N	GSC MIxS water	positive control type
+ERC000024	107	N	GSC MIxS water	potassium
+ERC000024	87	N	GSC MIxS water	pressure
+ERC000024	309	N	GSC MIxS water	primary production
+ERC000024	160	Y	GSC MIxS water	project name
+ERC000024	135	N	GSC MIxS water	propagation
+ERC000024	240	N	GSC MIxS water	redox potential
+ERC000024	434	N	GSC MIxS water	reference for biomaterial
+ERC000024	394	N	GSC MIxS water	relationship to oxygen
+ERC000024	478	N	GSC MIxS water	relevant electronic resources
+ERC000024	522	N	GSC MIxS water	relevant standard operating procedures
+ERC000024	88	N	GSC MIxS water	salinity
+ERC000024	778	N	GSC MIxS water	sample collection device
+ERC000024	779	N	GSC MIxS water	sample collection method
+ERC000024	446	N	GSC MIxS water	sample material processing
+ERC000024	409	N	GSC MIxS water	sample storage duration
+ERC000024	410	N	GSC MIxS water	sample storage location
+ERC000024	448	N	GSC MIxS water	sample storage temperature
+ERC000024	537	N	GSC MIxS water	sample volume or weight for DNA extraction
+ERC000024	395	N	GSC MIxS water	sequence quality check
+ERC000024	90	N	GSC MIxS water	silicate
+ERC000024	474	N	GSC MIxS water	size-fraction lower threshold
+ERC000024	475	N	GSC MIxS water	size-fraction upper threshold
+ERC000024	48	N	GSC MIxS water	sodium
+ERC000024	458	N	GSC MIxS water	soluble reactive phosphorus
+ERC000024	459	N	GSC MIxS water	source material identifiers
+ERC000024	460	N	GSC MIxS water	subspecific genetic lineage
+ERC000024	65	N	GSC MIxS water	sulfate
+ERC000024	66	N	GSC MIxS water	sulfide
+ERC000024	473	N	GSC MIxS water	suspended particulate matter
+ERC000024	139	N	GSC MIxS water	target gene
+ERC000024	310	N	GSC MIxS water	target subfragment
+ERC000024	703	N	GSC MIxS water	taxonomic classification
+ERC000024	140	N	GSC MIxS water	temperature
+ERC000024	141	N	GSC MIxS water	tidal stage
+ERC000024	462	N	GSC MIxS water	total depth of water column
+ERC000024	424	N	GSC MIxS water	total dissolved nitrogen
+ERC000024	425	N	GSC MIxS water	total inorganic nitrogen
+ERC000024	86	N	GSC MIxS water	total nitrogen concentration
+ERC000024	215	N	GSC MIxS water	total nitrogen content
+ERC000024	426	N	GSC MIxS water	total particulate carbon
+ERC000024	273	N	GSC MIxS water	total phosphorus
+ERC000024	185	N	GSC MIxS water	trophic level
+ERC000024	111	N	GSC MIxS water	turbidity
+ERC000024	188	N	GSC MIxS water	water current
+ERC000025	71	N	GSC MIxS miscellaneous natural or artificial environment	adapters
+ERC000025	112	N	GSC MIxS miscellaneous natural or artificial environment	alkalinity
+ERC000025	484	N	GSC MIxS miscellaneous natural or artificial environment	altitude
+ERC000025	72	N	GSC MIxS miscellaneous natural or artificial environment	ammonium
+ERC000025	509	N	GSC MIxS miscellaneous natural or artificial environment	amount or size of sample collected
+ERC000025	281	N	GSC MIxS miscellaneous natural or artificial environment	annotation source
+ERC000025	51	N	GSC MIxS miscellaneous natural or artificial environment	biomass
+ERC000025	318	Y	GSC MIxS miscellaneous natural or artificial environment	broad-scale environmental context
+ERC000025	52	N	GSC MIxS miscellaneous natural or artificial environment	bromide
+ERC000025	53	N	GSC MIxS miscellaneous natural or artificial environment	calcium
+ERC000025	402	N	GSC MIxS miscellaneous natural or artificial environment	chemical administration
+ERC000025	173	N	GSC MIxS miscellaneous natural or artificial environment	chimera check software
+ERC000025	73	N	GSC MIxS miscellaneous natural or artificial environment	chloride
+ERC000025	128	N	GSC MIxS miscellaneous natural or artificial environment	chlorophyll
+ERC000025	224	Y	GSC MIxS miscellaneous natural or artificial environment	collection date
+ERC000025	54	N	GSC MIxS miscellaneous natural or artificial environment	density
+ERC000025	452	N	GSC MIxS miscellaneous natural or artificial environment	depth
+ERC000025	197	N	GSC MIxS miscellaneous natural or artificial environment	diether lipids
+ERC000025	415	N	GSC MIxS miscellaneous natural or artificial environment	dissolved carbon dioxide
+ERC000025	301	N	GSC MIxS miscellaneous natural or artificial environment	dissolved hydrogen
+ERC000025	439	N	GSC MIxS miscellaneous natural or artificial environment	dissolved inorganic carbon
+ERC000025	440	N	GSC MIxS miscellaneous natural or artificial environment	dissolved organic nitrogen
+ERC000025	251	N	GSC MIxS miscellaneous natural or artificial environment	dissolved oxygen
+ERC000025	493	N	GSC MIxS miscellaneous natural or artificial environment	elevation
+ERC000025	198	N	GSC MIxS miscellaneous natural or artificial environment	encoded traits
+ERC000025	387	Y	GSC MIxS miscellaneous natural or artificial environment	environmental medium
+ERC000025	199	N	GSC MIxS miscellaneous natural or artificial environment	estimated size
+ERC000025	319	N	GSC MIxS miscellaneous natural or artificial environment	experimental factor
+ERC000025	430	N	GSC MIxS miscellaneous natural or artificial environment	extrachromosomal elements
+ERC000025	530	Y	GSC MIxS miscellaneous natural or artificial environment	geographic location (country and/or sea)
+ERC000025	486	Y	GSC MIxS miscellaneous natural or artificial environment	geographic location (latitude)
+ERC000025	494	Y	GSC MIxS miscellaneous natural or artificial environment	geographic location (longitude)
+ERC000025	531	N	GSC MIxS miscellaneous natural or artificial environment	geographic location (region and locality)
+ERC000025	321	N	GSC MIxS miscellaneous natural or artificial environment	host disease status
+ERC000025	341	N	GSC MIxS miscellaneous natural or artificial environment	host scientific name
+ERC000025	491	N	GSC MIxS miscellaneous natural or artificial environment	isolation and growth condition
+ERC000025	323	N	GSC MIxS miscellaneous natural or artificial environment	known pathogenicity
+ERC000025	454	N	GSC MIxS miscellaneous natural or artificial environment	library construction method
+ERC000025	404	N	GSC MIxS miscellaneous natural or artificial environment	library reads sequenced
+ERC000025	443	N	GSC MIxS miscellaneous natural or artificial environment	library screening strategy
+ERC000025	157	N	GSC MIxS miscellaneous natural or artificial environment	library size
+ERC000025	207	N	GSC MIxS miscellaneous natural or artificial environment	library vector
+ERC000025	355	Y	GSC MIxS miscellaneous natural or artificial environment	local environmental context
+ERC000025	375	N	GSC MIxS miscellaneous natural or artificial environment	multiplex identifiers
+ERC000025	776	N	GSC MIxS miscellaneous natural or artificial environment	negative control type
+ERC000025	62	N	GSC MIxS miscellaneous natural or artificial environment	nitrate
+ERC000025	63	N	GSC MIxS miscellaneous natural or artificial environment	nitrite
+ERC000025	444	N	GSC MIxS miscellaneous natural or artificial environment	nucleic acid amplification
+ERC000025	407	N	GSC MIxS miscellaneous natural or artificial environment	nucleic acid extraction
+ERC000025	324	N	GSC MIxS miscellaneous natural or artificial environment	number of replicons
+ERC000025	469	N	GSC MIxS miscellaneous natural or artificial environment	observed biotic relationship
+ERC000025	209	N	GSC MIxS miscellaneous natural or artificial environment	organic carbon
+ERC000025	210	N	GSC MIxS miscellaneous natural or artificial environment	organic matter
+ERC000025	262	N	GSC MIxS miscellaneous natural or artificial environment	organic nitrogen
+ERC000025	211	N	GSC MIxS miscellaneous natural or artificial environment	organism count
+ERC000025	471	N	GSC MIxS miscellaneous natural or artificial environment	oxygenation status of sample
+ERC000025	37	N	GSC MIxS miscellaneous natural or artificial environment	pH
+ERC000025	212	N	GSC MIxS miscellaneous natural or artificial environment	pcr conditions
+ERC000025	133	N	GSC MIxS miscellaneous natural or artificial environment	pcr primers
+ERC000025	159	N	GSC MIxS miscellaneous natural or artificial environment	perturbation
+ERC000025	106	N	GSC MIxS miscellaneous natural or artificial environment	phosphate
+ERC000025	408	N	GSC MIxS miscellaneous natural or artificial environment	phospholipid fatty acid
+ERC000025	46	N	GSC MIxS miscellaneous natural or artificial environment	ploidy
+ERC000025	777	N	GSC MIxS miscellaneous natural or artificial environment	positive control type
+ERC000025	107	N	GSC MIxS miscellaneous natural or artificial environment	potassium
+ERC000025	87	N	GSC MIxS miscellaneous natural or artificial environment	pressure
+ERC000025	160	Y	GSC MIxS miscellaneous natural or artificial environment	project name
+ERC000025	135	N	GSC MIxS miscellaneous natural or artificial environment	propagation
+ERC000025	434	N	GSC MIxS miscellaneous natural or artificial environment	reference for biomaterial
+ERC000025	394	N	GSC MIxS miscellaneous natural or artificial environment	relationship to oxygen
+ERC000025	478	N	GSC MIxS miscellaneous natural or artificial environment	relevant electronic resources
+ERC000025	522	N	GSC MIxS miscellaneous natural or artificial environment	relevant standard operating procedures
+ERC000025	88	N	GSC MIxS miscellaneous natural or artificial environment	salinity
+ERC000025	778	N	GSC MIxS miscellaneous natural or artificial environment	sample collection device
+ERC000025	779	N	GSC MIxS miscellaneous natural or artificial environment	sample collection method
+ERC000025	446	N	GSC MIxS miscellaneous natural or artificial environment	sample material processing
+ERC000025	409	N	GSC MIxS miscellaneous natural or artificial environment	sample storage duration
+ERC000025	410	N	GSC MIxS miscellaneous natural or artificial environment	sample storage location
+ERC000025	448	N	GSC MIxS miscellaneous natural or artificial environment	sample storage temperature
+ERC000025	537	N	GSC MIxS miscellaneous natural or artificial environment	sample volume or weight for DNA extraction
+ERC000025	395	N	GSC MIxS miscellaneous natural or artificial environment	sequence quality check
+ERC000025	90	N	GSC MIxS miscellaneous natural or artificial environment	silicate
+ERC000025	48	N	GSC MIxS miscellaneous natural or artificial environment	sodium
+ERC000025	459	N	GSC MIxS miscellaneous natural or artificial environment	source material identifiers
+ERC000025	460	N	GSC MIxS miscellaneous natural or artificial environment	subspecific genetic lineage
+ERC000025	65	N	GSC MIxS miscellaneous natural or artificial environment	sulfate
+ERC000025	66	N	GSC MIxS miscellaneous natural or artificial environment	sulfide
+ERC000025	139	N	GSC MIxS miscellaneous natural or artificial environment	target gene
+ERC000025	310	N	GSC MIxS miscellaneous natural or artificial environment	target subfragment
+ERC000025	703	N	GSC MIxS miscellaneous natural or artificial environment	taxonomic classification
+ERC000025	140	N	GSC MIxS miscellaneous natural or artificial environment	temperature
+ERC000025	86	N	GSC MIxS miscellaneous natural or artificial environment	total nitrogen concentration
+ERC000025	185	N	GSC MIxS miscellaneous natural or artificial environment	trophic level
+ERC000025	188	N	GSC MIxS miscellaneous natural or artificial environment	water current
+ERC000027	143	R	ENA Micro B3	Latitude End
+ERC000027	190	Y	ENA Micro B3	Latitude Start
+ERC000027	167	R	ENA Micro B3	Longitude End
+ERC000027	220	Y	ENA Micro B3	Longitude Start
+ERC000027	168	Y	ENA Micro B3	Marine Region
+ERC000027	192	Y	ENA Micro B3	Protocol Label
+ERC000027	279	Y	ENA Micro B3	Sampling Campaign
+ERC000027	280	Y	ENA Micro B3	Sampling Platform
+ERC000027	171	Y	ENA Micro B3	Sampling Site
+ERC000027	71	N	ENA Micro B3	adapters
+ERC000027	112	N	ENA Micro B3	alkalinity
+ERC000027	193	N	ENA Micro B3	alkyl diethers
+ERC000027	399	N	ENA Micro B3	aminopeptidase activity
+ERC000027	72	N	ENA Micro B3	ammonium
+ERC000027	509	N	ENA Micro B3	amount or size of sample collected
+ERC000027	281	N	ENA Micro B3	annotation source
+ERC000027	247	N	ENA Micro B3	atmospheric data
+ERC000027	451	N	ENA Micro B3	bacterial carbon production
+ERC000027	332	N	ENA Micro B3	bacterial production
+ERC000027	353	N	ENA Micro B3	bacterial respiration
+ERC000027	51	N	ENA Micro B3	biomass
+ERC000027	194	N	ENA Micro B3	bishomohopanol
+ERC000027	318	Y	ENA Micro B3	broad-scale environmental context
+ERC000027	52	N	ENA Micro B3	bromide
+ERC000027	53	N	ENA Micro B3	calcium
+ERC000027	354	N	ENA Micro B3	carbon/nitrogen ratio
+ERC000027	402	N	ENA Micro B3	chemical administration
+ERC000027	173	N	ENA Micro B3	chimera check software
+ERC000027	73	N	ENA Micro B3	chloride
+ERC000027	128	N	ENA Micro B3	chlorophyll
+ERC000027	224	Y	ENA Micro B3	collection date
+ERC000027	148	N	ENA Micro B3	conductivity
+ERC000027	54	N	ENA Micro B3	density
+ERC000027	452	Y	ENA Micro B3	depth
+ERC000027	197	N	ENA Micro B3	diether lipids
+ERC000027	415	N	ENA Micro B3	dissolved carbon dioxide
+ERC000027	301	N	ENA Micro B3	dissolved hydrogen
+ERC000027	439	N	ENA Micro B3	dissolved inorganic carbon
+ERC000027	465	N	ENA Micro B3	dissolved inorganic nitrogen
+ERC000027	483	N	ENA Micro B3	dissolved inorganic phosphorus
+ERC000027	416	N	ENA Micro B3	dissolved organic carbon
+ERC000027	440	N	ENA Micro B3	dissolved organic nitrogen
+ERC000027	251	N	ENA Micro B3	dissolved oxygen
+ERC000027	150	N	ENA Micro B3	downward PAR
+ERC000027	198	N	ENA Micro B3	encoded traits
+ERC000027	387	Y	ENA Micro B3	environmental medium
+ERC000027	349	Y	ENA Micro B3	environmental package
+ERC000027	199	N	ENA Micro B3	estimated size
+ERC000027	319	N	ENA Micro B3	experimental factor
+ERC000027	430	N	ENA Micro B3	extrachromosomal elements
+ERC000027	304	N	ENA Micro B3	finishing strategy
+ERC000027	151	N	ENA Micro B3	fluorescence
+ERC000027	530	Y	ENA Micro B3	geographic location (country and/or sea)
+ERC000027	337	N	ENA Micro B3	glucosidase activity
+ERC000027	534	N	ENA Micro B3	health or disease status of specific host
+ERC000027	491	N	ENA Micro B3	isolation and growth condition
+ERC000027	323	N	ENA Micro B3	known pathogenicity
+ERC000027	454	N	ENA Micro B3	library construction method
+ERC000027	404	N	ENA Micro B3	library reads sequenced
+ERC000027	443	N	ENA Micro B3	library screening strategy
+ERC000027	157	N	ENA Micro B3	library size
+ERC000027	207	N	ENA Micro B3	library vector
+ERC000027	237	N	ENA Micro B3	light intensity
+ERC000027	355	Y	ENA Micro B3	local environmental context
+ERC000027	100	N	ENA Micro B3	magnesium
+ERC000027	392	N	ENA Micro B3	mean friction velocity
+ERC000027	456	N	ENA Micro B3	mean peak friction velocity
+ERC000027	406	N	ENA Micro B3	miscellaneous parameter
+ERC000027	375	N	ENA Micro B3	multiplex identifiers
+ERC000027	102	N	ENA Micro B3	n-alkanes
+ERC000027	62	N	ENA Micro B3	nitrate
+ERC000027	63	N	ENA Micro B3	nitrite
+ERC000027	444	N	ENA Micro B3	nucleic acid amplification
+ERC000027	407	N	ENA Micro B3	nucleic acid extraction
+ERC000027	324	N	ENA Micro B3	number of replicons
+ERC000027	469	N	ENA Micro B3	observed biotic relationship
+ERC000027	209	N	ENA Micro B3	organic carbon
+ERC000027	210	N	ENA Micro B3	organic matter
+ERC000027	262	N	ENA Micro B3	organic nitrogen
+ERC000027	211	N	ENA Micro B3	organism count
+ERC000027	471	N	ENA Micro B3	oxygenation status of sample
+ERC000027	37	N	ENA Micro B3	pH
+ERC000027	445	N	ENA Micro B3	particulate organic carbon
+ERC000027	472	N	ENA Micro B3	particulate organic nitrogen
+ERC000027	212	N	ENA Micro B3	pcr conditions
+ERC000027	133	N	ENA Micro B3	pcr primers
+ERC000027	159	N	ENA Micro B3	perturbation
+ERC000027	377	N	ENA Micro B3	petroleum hydrocarbon
+ERC000027	181	N	ENA Micro B3	phaeopigments
+ERC000027	106	N	ENA Micro B3	phosphate
+ERC000027	408	N	ENA Micro B3	phospholipid fatty acid
+ERC000027	134	N	ENA Micro B3	photon flux
+ERC000027	46	N	ENA Micro B3	ploidy
+ERC000027	107	N	ENA Micro B3	potassium
+ERC000027	87	N	ENA Micro B3	pressure
+ERC000027	309	N	ENA Micro B3	primary production
+ERC000027	160	Y	ENA Micro B3	project name
+ERC000027	135	N	ENA Micro B3	propagation
+ERC000027	240	N	ENA Micro B3	redox potential
+ERC000027	434	N	ENA Micro B3	reference for biomaterial
+ERC000027	394	N	ENA Micro B3	relationship to oxygen
+ERC000027	478	N	ENA Micro B3	relevant electronic resources
+ERC000027	522	N	ENA Micro B3	relevant standard operating procedures
+ERC000027	88	N	ENA Micro B3	salinity
+ERC000027	779	N	ENA Micro B3	sample collection method
+ERC000027	446	N	ENA Micro B3	sample material processing
+ERC000027	409	N	ENA Micro B3	sample storage duration
+ERC000027	410	N	ENA Micro B3	sample storage location
+ERC000027	448	N	ENA Micro B3	sample storage temperature
+ERC000027	537	N	ENA Micro B3	sample volume or weight for DNA extraction
+ERC000027	395	N	ENA Micro B3	sequence quality check
+ERC000027	90	N	ENA Micro B3	silicate
+ERC000027	48	N	ENA Micro B3	sodium
+ERC000027	458	N	ENA Micro B3	soluble reactive phosphorus
+ERC000027	459	N	ENA Micro B3	source material identifiers
+ERC000027	184	N	ENA Micro B3	specific host
+ERC000027	460	N	ENA Micro B3	subspecific genetic lineage
+ERC000027	65	N	ENA Micro B3	sulfate
+ERC000027	66	N	ENA Micro B3	sulfide
+ERC000027	473	N	ENA Micro B3	suspended particulate matter
+ERC000027	139	N	ENA Micro B3	target gene
+ERC000027	310	N	ENA Micro B3	target subfragment
+ERC000027	141	N	ENA Micro B3	tidal stage
+ERC000027	462	N	ENA Micro B3	total depth of water column
+ERC000027	424	N	ENA Micro B3	total dissolved nitrogen
+ERC000027	425	N	ENA Micro B3	total inorganic nitrogen
+ERC000027	86	N	ENA Micro B3	total nitrogen concentration
+ERC000027	215	N	ENA Micro B3	total nitrogen content
+ERC000027	426	N	ENA Micro B3	total particulate carbon
+ERC000027	273	N	ENA Micro B3	total phosphorus
+ERC000027	185	N	ENA Micro B3	trophic level
+ERC000027	111	N	ENA Micro B3	turbidity
+ERC000027	188	N	ENA Micro B3	water current
+ERC000027	127	Y	ENA Micro B3	water temperature
+ERC000030	297	R	ENA Tara Oceans	Chlorophyll Sensor
+ERC000030	69	R	ENA Tara Oceans	Citation
+ERC000030	314	N	ENA Tara Oceans	Event Date/Time End
+ERC000030	351	N	ENA Tara Oceans	Event Date/Time Start
+ERC000030	126	R	ENA Tara Oceans	Event Label
+ERC000030	219	R	ENA Tara Oceans	Further Details
+ERC000030	245	R	ENA Tara Oceans	Last Update Date
+ERC000030	143	R	ENA Tara Oceans	Latitude End
+ERC000030	190	Y	ENA Tara Oceans	Latitude Start
+ERC000030	167	R	ENA Tara Oceans	Longitude End
+ERC000030	220	Y	ENA Tara Oceans	Longitude Start
+ERC000030	168	Y	ENA Tara Oceans	Marine Region
+ERC000030	191	R	ENA Tara Oceans	Nitrate Sensor
+ERC000030	169	R	ENA Tara Oceans	Oxygen Sensor
+ERC000030	192	Y	ENA Tara Oceans	Protocol Label
+ERC000030	221	Y	ENA Tara Oceans	Salinity Sensor
+ERC000030	170	R	ENA Tara Oceans	Sample Status
+ERC000030	279	Y	ENA Tara Oceans	Sampling Campaign
+ERC000030	280	Y	ENA Tara Oceans	Sampling Platform
+ERC000030	246	Y	ENA Tara Oceans	Sampling Station
+ERC000030	318	Y	ENA Tara Oceans	broad-scale environmental context
+ERC000030	224	Y	ENA Tara Oceans	collection date
+ERC000030	452	N	ENA Tara Oceans	depth
+ERC000030	387	Y	ENA Tara Oceans	environmental medium
+ERC000030	349	Y	ENA Tara Oceans	environmental package
+ERC000030	530	Y	ENA Tara Oceans	geographic location (country and/or sea)
+ERC000030	355	Y	ENA Tara Oceans	local environmental context
+ERC000030	160	Y	ENA Tara Oceans	project name
+ERC000030	778	N	ENA Tara Oceans	sample collection device
+ERC000030	747	R	ENA Tara Oceans	sample storage device
+ERC000030	474	R	ENA Tara Oceans	size-fraction lower threshold
+ERC000030	475	R	ENA Tara Oceans	size-fraction upper threshold
+ERC000030	127	Y	ENA Tara Oceans	water temperature
+ERC000031	352	Y	GSC MIxS built environment	absolute air humidity
+ERC000031	71	N	GSC MIxS built environment	adapters
+ERC000031	1206	N	GSC MIxS built environment	address
+ERC000031	819	N	GSC MIxS built environment	adjacent rooms
+ERC000031	883	N	GSC MIxS built environment	aerospace structure
+ERC000031	222	Y	GSC MIxS built environment	air temperature
+ERC000031	484	N	GSC MIxS built environment	altitude
+ERC000031	931	N	GSC MIxS built environment	amount of light
+ERC000031	509	N	GSC MIxS built environment	amount or size of sample collected
+ERC000031	281	N	GSC MIxS built environment	annotation source
+ERC000031	1142	N	GSC MIxS built environment	architectural structure
+ERC000031	949	N	GSC MIxS built environment	average daily occupancy
+ERC000031	1118	N	GSC MIxS built environment	average dew point
+ERC000031	859	N	GSC MIxS built environment	average temperature
+ERC000031	995	N	GSC MIxS built environment	bathroom count
+ERC000031	1146	N	GSC MIxS built environment	bedroom count
+ERC000031	318	Y	GSC MIxS built environment	broad-scale environmental context
+ERC000031	400	Y	GSC MIxS built environment	building occupancy type
+ERC000031	248	Y	GSC MIxS built environment	building setting
+ERC000031	1075	N	GSC MIxS built environment	built structure age
+ERC000031	835	N	GSC MIxS built environment	built structure setting
+ERC000031	871	N	GSC MIxS built environment	built structure type
+ERC000031	195	Y	GSC MIxS built environment	carbon dioxide
+ERC000031	1099	N	GSC MIxS built environment	ceiling area
+ERC000031	1019	N	GSC MIxS built environment	ceiling condition
+ERC000031	1178	N	GSC MIxS built environment	ceiling finish material
+ERC000031	888	N	GSC MIxS built environment	ceiling signs of water/mold
+ERC000031	977	N	GSC MIxS built environment	ceiling structure
+ERC000031	1009	N	GSC MIxS built environment	ceiling texture
+ERC000031	1130	N	GSC MIxS built environment	ceiling thermal mass
+ERC000031	850	N	GSC MIxS built environment	ceiling type
+ERC000031	173	N	GSC MIxS built environment	chimera check software
+ERC000031	224	Y	GSC MIxS built environment	collection date
+ERC000031	1168	N	GSC MIxS built environment	cooling system identifier
+ERC000031	844	N	GSC MIxS built environment	date last rain
+ERC000031	452	N	GSC MIxS built environment	depth
+ERC000031	992	N	GSC MIxS built environment	design, construction, and operation documents
+ERC000031	95	N	GSC MIxS built environment	dew point
+ERC000031	820	N	GSC MIxS built environment	door area or size
+ERC000031	968	N	GSC MIxS built environment	door condition
+ERC000031	857	N	GSC MIxS built environment	door direction of opening
+ERC000031	905	N	GSC MIxS built environment	door location
+ERC000031	880	N	GSC MIxS built environment	door material
+ERC000031	969	N	GSC MIxS built environment	door movement
+ERC000031	1128	N	GSC MIxS built environment	door signs of water/mold
+ERC000031	1180	N	GSC MIxS built environment	door type
+ERC000031	1143	N	GSC MIxS built environment	door type, composite
+ERC000031	872	N	GSC MIxS built environment	door type, metal
+ERC000031	960	N	GSC MIxS built environment	door type, wood
+ERC000031	1198	N	GSC MIxS built environment	drawings
+ERC000031	493	N	GSC MIxS built environment	elevation
+ERC000031	833	N	GSC MIxS built environment	elevator count
+ERC000031	198	N	GSC MIxS built environment	encoded traits
+ERC000031	387	Y	GSC MIxS built environment	environmental medium
+ERC000031	1164	N	GSC MIxS built environment	escalator count
+ERC000031	199	N	GSC MIxS built environment	estimated size
+ERC000031	319	N	GSC MIxS built environment	experimental factor
+ERC000031	877	N	GSC MIxS built environment	exposed ductwork
+ERC000031	860	N	GSC MIxS built environment	exposed pipes
+ERC000031	958	N	GSC MIxS built environment	exterior door count
+ERC000031	430	N	GSC MIxS built environment	extrachromosomal elements
+ERC000031	129	Y	GSC MIxS built environment	filter type
+ERC000031	1176	N	GSC MIxS built environment	fireplace type
+ERC000031	1185	N	GSC MIxS built environment	floor age
+ERC000031	834	N	GSC MIxS built environment	floor area
+ERC000031	954	N	GSC MIxS built environment	floor condition
+ERC000031	1029	N	GSC MIxS built environment	floor count
+ERC000031	1051	N	GSC MIxS built environment	floor finish material
+ERC000031	973	N	GSC MIxS built environment	floor signs of water/mold
+ERC000031	1027	N	GSC MIxS built environment	floor structure
+ERC000031	983	N	GSC MIxS built environment	floor thermal mass
+ERC000031	1074	N	GSC MIxS built environment	frequency of cleaning
+ERC000031	824	N	GSC MIxS built environment	frequency of cooking
+ERC000031	841	N	GSC MIxS built environment	furniture
+ERC000031	1017	N	GSC MIxS built environment	gender of restroom
+ERC000031	530	Y	GSC MIxS built environment	geographic location (country and/or sea)
+ERC000031	486	Y	GSC MIxS built environment	geographic location (latitude)
+ERC000031	494	Y	GSC MIxS built environment	geographic location (longitude)
+ERC000031	531	N	GSC MIxS built environment	geographic location (region and locality)
+ERC000031	1121	N	GSC MIxS built environment	hallway/corridor count
+ERC000031	998	N	GSC MIxS built environment	handidness
+ERC000031	496	Y	GSC MIxS built environment	heating and cooling system type
+ERC000031	1177	N	GSC MIxS built environment	heating delivery locations
+ERC000031	1100	N	GSC MIxS built environment	heating system delivery method
+ERC000031	1093	N	GSC MIxS built environment	height carpet fiber mat
+ERC000031	321	N	GSC MIxS built environment	host disease status
+ERC000031	341	N	GSC MIxS built environment	host scientific name
+ERC000031	786	N	GSC MIxS built environment	host specificity or range
+ERC000031	156	Y	GSC MIxS built environment	indoor space
+ERC000031	206	N	GSC MIxS built environment	indoor surface
+ERC000031	875	N	GSC MIxS built environment	inside lux light
+ERC000031	970	N	GSC MIxS built environment	interior wall condition
+ERC000031	491	N	GSC MIxS built environment	isolation and growth condition
+ERC000031	323	N	GSC MIxS built environment	known pathogenicity
+ERC000031	858	N	GSC MIxS built environment	last time swept/mopped/vacuumed
+ERC000031	454	N	GSC MIxS built environment	library construction method
+ERC000031	404	N	GSC MIxS built environment	library reads sequenced
+ERC000031	443	N	GSC MIxS built environment	library screening strategy
+ERC000031	157	N	GSC MIxS built environment	library size
+ERC000031	207	N	GSC MIxS built environment	library vector
+ERC000031	119	Y	GSC MIxS built environment	light type
+ERC000031	355	Y	GSC MIxS built environment	local environmental context
+ERC000031	1012	N	GSC MIxS built environment	maximum occupancy
+ERC000031	869	N	GSC MIxS built environment	mechanical structure
+ERC000031	375	N	GSC MIxS built environment	multiplex identifiers
+ERC000031	776	N	GSC MIxS built environment	negative control type
+ERC000031	444	N	GSC MIxS built environment	nucleic acid amplification
+ERC000031	407	N	GSC MIxS built environment	nucleic acid extraction
+ERC000031	1181	N	GSC MIxS built environment	number of houseplants
+ERC000031	501	N	GSC MIxS built environment	number of inoculated individuals
+ERC000031	1173	N	GSC MIxS built environment	number of pets
+ERC000031	324	N	GSC MIxS built environment	number of replicons
+ERC000031	981	N	GSC MIxS built environment	number of residents
+ERC000031	469	N	GSC MIxS built environment	observed biotic relationship
+ERC000031	376	Y	GSC MIxS built environment	occupancy at sampling
+ERC000031	1028	N	GSC MIxS built environment	occupancy documentation
+ERC000031	470	Y	GSC MIxS built environment	occupant density at sampling
+ERC000031	211	Y	GSC MIxS built environment	organism count
+ERC000031	1135	N	GSC MIxS built environment	orientations of exterior window
+ERC000031	1120	N	GSC MIxS built environment	outside relative humidity
+ERC000031	212	N	GSC MIxS built environment	pcr conditions
+ERC000031	133	N	GSC MIxS built environment	pcr primers
+ERC000031	159	N	GSC MIxS built environment	perturbation
+ERC000031	46	N	GSC MIxS built environment	ploidy
+ERC000031	777	N	GSC MIxS built environment	positive control type
+ERC000031	160	Y	GSC MIxS built environment	project name
+ERC000031	135	N	GSC MIxS built environment	propagation
+ERC000031	1170	N	GSC MIxS built environment	quadrant position
+ERC000031	434	N	GSC MIxS built environment	reference for biomaterial
+ERC000031	394	N	GSC MIxS built environment	relationship to oxygen
+ERC000031	378	Y	GSC MIxS built environment	relative air humidity
+ERC000031	478	N	GSC MIxS built environment	relevant electronic resources
+ERC000031	522	N	GSC MIxS built environment	relevant standard operating procedures
+ERC000031	991	N	GSC MIxS built environment	room air exchange rate
+ERC000031	1212	N	GSC MIxS built environment	room architectural elements
+ERC000031	928	N	GSC MIxS built environment	room condition
+ERC000031	943	N	GSC MIxS built environment	room count
+ERC000031	881	N	GSC MIxS built environment	room dimensions
+ERC000031	846	N	GSC MIxS built environment	room door distance
+ERC000031	1043	N	GSC MIxS built environment	room location in building
+ERC000031	1117	N	GSC MIxS built environment	room moisture damage or mold history
+ERC000031	1129	N	GSC MIxS built environment	room net area
+ERC000031	1040	N	GSC MIxS built environment	room occupancy
+ERC000031	1106	N	GSC MIxS built environment	room sampling position
+ERC000031	847	N	GSC MIxS built environment	room type
+ERC000031	1141	N	GSC MIxS built environment	room volume
+ERC000031	1072	N	GSC MIxS built environment	room window count
+ERC000031	1187	N	GSC MIxS built environment	rooms connected by a doorway
+ERC000031	826	N	GSC MIxS built environment	rooms that are on the same hallway
+ERC000031	1134	N	GSC MIxS built environment	rooms that share a door with sampling room
+ERC000031	1032	N	GSC MIxS built environment	rooms that share a wall with sampling room
+ERC000031	778	N	GSC MIxS built environment	sample collection device
+ERC000031	779	N	GSC MIxS built environment	sample collection method
+ERC000031	446	N	GSC MIxS built environment	sample material processing
+ERC000031	447	N	GSC MIxS built environment	sample size sorting method
+ERC000031	537	N	GSC MIxS built environment	sample volume or weight for DNA extraction
+ERC000031	914	N	GSC MIxS built environment	sampling day weather
+ERC000031	936	N	GSC MIxS built environment	sampling floor
+ERC000031	1082	N	GSC MIxS built environment	sampling room id or name
+ERC000031	894	N	GSC MIxS built environment	sampling time outside
+ERC000031	816	N	GSC MIxS built environment	season
+ERC000031	1196	N	GSC MIxS built environment	seasonal use
+ERC000031	395	N	GSC MIxS built environment	sequence quality check
+ERC000031	1016	N	GSC MIxS built environment	shading device condition
+ERC000031	1167	N	GSC MIxS built environment	shading device location
+ERC000031	1057	N	GSC MIxS built environment	shading device material
+ERC000031	1000	N	GSC MIxS built environment	shading device signs of water/mold
+ERC000031	1156	N	GSC MIxS built environment	shading device type
+ERC000031	459	N	GSC MIxS built environment	source material identifiers
+ERC000031	326	Y	GSC MIxS built environment	space typical state
+ERC000031	1208	N	GSC MIxS built environment	specific humidity
+ERC000031	1205	N	GSC MIxS built environment	specifications
+ERC000031	460	N	GSC MIxS built environment	subspecific genetic lineage
+ERC000031	296	N	GSC MIxS built environment	substructure type
+ERC000031	269	N	GSC MIxS built environment	surface humidity
+ERC000031	270	N	GSC MIxS built environment	surface material
+ERC000031	271	N	GSC MIxS built environment	surface moisture
+ERC000031	327	N	GSC MIxS built environment	surface moisture pH
+ERC000031	328	N	GSC MIxS built environment	surface temperature
+ERC000031	412	N	GSC MIxS built environment	surface-air contaminant
+ERC000031	139	N	GSC MIxS built environment	target gene
+ERC000031	310	N	GSC MIxS built environment	target subfragment
+ERC000031	703	N	GSC MIxS built environment	taxonomic classification
+ERC000031	140	N	GSC MIxS built environment	temperature
+ERC000031	1139	N	GSC MIxS built environment	temperature outside house
+ERC000031	947	N	GSC MIxS built environment	train line
+ERC000031	876	N	GSC MIxS built environment	train station collection location
+ERC000031	927	N	GSC MIxS built environment	train stop collection location
+ERC000031	185	N	GSC MIxS built environment	trophic level
+ERC000031	427	Y	GSC MIxS built environment	typical occupant density
+ERC000031	276	Y	GSC MIxS built environment	ventilation type
+ERC000031	825	N	GSC MIxS built environment	visual media
+ERC000031	828	N	GSC MIxS built environment	wall area
+ERC000031	1149	N	GSC MIxS built environment	wall construction type
+ERC000031	1036	N	GSC MIxS built environment	wall finish material
+ERC000031	862	N	GSC MIxS built environment	wall height
+ERC000031	1140	N	GSC MIxS built environment	wall location
+ERC000031	1159	N	GSC MIxS built environment	wall signs of water/mold
+ERC000031	822	N	GSC MIxS built environment	wall surface treatment
+ERC000031	978	N	GSC MIxS built environment	wall texture
+ERC000031	886	N	GSC MIxS built environment	wall thermal mass
+ERC000031	919	N	GSC MIxS built environment	water feature size
+ERC000031	842	N	GSC MIxS built environment	water feature type
+ERC000031	929	N	GSC MIxS built environment	window area/size
+ERC000031	1162	N	GSC MIxS built environment	window condition
+ERC000031	1006	N	GSC MIxS built environment	window covering
+ERC000031	920	N	GSC MIxS built environment	window horizontal position
+ERC000031	848	N	GSC MIxS built environment	window location
+ERC000031	913	N	GSC MIxS built environment	window material
+ERC000031	1215	N	GSC MIxS built environment	window open frequency
+ERC000031	908	N	GSC MIxS built environment	window signs of water/mold
+ERC000031	898	N	GSC MIxS built environment	window status
+ERC000031	910	N	GSC MIxS built environment	window type
+ERC000031	1175	N	GSC MIxS built environment	window vertical position
+ERC000036	509	N	ENA sewage checklist	amount or size of sample collected
+ERC000036	607	N	ENA sewage checklist	area of sampling site
+ERC000036	224	Y	ENA sewage checklist	collection date
+ERC000036	530	Y	ENA sewage checklist	geographic location (country and/or sea)
+ERC000036	486	R	ENA sewage checklist	geographic location (latitude)
+ERC000036	494	R	ENA sewage checklist	geographic location (longitude)
+ERC000036	531	N	ENA sewage checklist	geographic location (region and locality)
+ERC000036	308	Y	ENA sewage checklist	investigation type
+ERC000036	605	R	ENA sewage checklist	name of the sampling site
+ERC000036	444	N	ENA sewage checklist	nucleic acid amplification
+ERC000036	407	N	ENA sewage checklist	nucleic acid extraction
+ERC000036	609	N	ENA sewage checklist	population size of the catchment area
+ERC000036	162	N	ENA sewage checklist	receipt date
+ERC000036	409	N	ENA sewage checklist	sample storage duration
+ERC000036	410	N	ENA sewage checklist	sample storage location
+ERC000036	448	N	ENA sewage checklist	sample storage temperature
+ERC000036	611	N	ENA sewage checklist	sample transportation date
+ERC000036	610	N	ENA sewage checklist	sample transportation temperature
+ERC000036	612	N	ENA sewage checklist	sample transportation time
+ERC000036	589	N	ENA sewage checklist	sampling time point
+ERC000036	137	Y	ENA sewage checklist	sewage type
+ERC000036	608	N	ENA sewage checklist	size of the catchment area
+ERC000036	769	R	ENA sewage checklist	surveillance target
+ERC000036	140	N	ENA sewage checklist	temperature
+ERC000055	686	N	GSC MIxS agriculture	16S recovery software
+ERC000055	685	N	GSC MIxS agriculture	16s recovered
+ERC000055	71	N	GSC MIxS agriculture	adapters
+ERC000055	484	N	GSC MIxS agriculture	altitude
+ERC000055	633	N	GSC MIxS agriculture	ancestral data
+ERC000055	798	N	GSC MIxS agriculture	animal water delivery method
+ERC000055	281	R	GSC MIxS agriculture	annotation source
+ERC000055	635	R	GSC MIxS agriculture	biotic relationship [deprecated]
+ERC000055	318	N	GSC MIxS agriculture	broad-scale environmental context
+ERC000055	402	N	GSC MIxS agriculture	chemical administration
+ERC000055	173	N	GSC MIxS agriculture	chimera check software
+ERC000055	317	R	GSC MIxS agriculture	climate environment
+ERC000055	224	Y	GSC MIxS agriculture	collection date
+ERC000055	789	N	GSC MIxS agriculture	crop yield
+ERC000055	813	N	GSC MIxS agriculture	culture isolation date
+ERC000055	300	R	GSC MIxS agriculture	current vegetation
+ERC000055	429	R	GSC MIxS agriculture	current vegetation method
+ERC000055	452	R	GSC MIxS agriculture	depth
+ERC000055	403	R	GSC MIxS agriculture	drainage classification
+ERC000055	493	N	GSC MIxS agriculture	elevation
+ERC000055	198	N	GSC MIxS agriculture	encoded traits
+ERC000055	815	R	GSC MIxS agriculture	enrichment protocol
+ERC000055	814	N	GSC MIxS agriculture	environment adjacent to site
+ERC000055	387	N	GSC MIxS agriculture	environmental medium
+ERC000055	799	N	GSC MIxS agriculture	equipment shared with other farms
+ERC000055	199	N	GSC MIxS agriculture	estimated size
+ERC000055	319	N	GSC MIxS agriculture	experimental factor
+ERC000055	430	N	GSC MIxS agriculture	extrachromosomal elements
+ERC000055	523	R	GSC MIxS agriculture	extreme_unusual_properties/heavy metals
+ERC000055	541	R	GSC MIxS agriculture	extreme_unusual_properties/heavy metals method
+ERC000055	793	N	GSC MIxS agriculture	farm equipment sanitization
+ERC000055	803	N	GSC MIxS agriculture	farm equipment used
+ERC000055	787	R	GSC MIxS agriculture	farm watering water source
+ERC000055	854	N	GSC MIxS agriculture	fertilizer administration date
+ERC000055	795	N	GSC MIxS agriculture	food harvesting process
+ERC000055	792	N	GSC MIxS agriculture	food product type
+ERC000055	951	N	GSC MIxS agriculture	food production characteristics
+ERC000055	791	N	GSC MIxS agriculture	food production system characteristics
+ERC000055	802	N	GSC MIxS agriculture	food shipping transportation method
+ERC000055	794	N	GSC MIxS agriculture	food shipping transportation vehicle
+ERC000055	801	N	GSC MIxS agriculture	food source
+ERC000055	282	R	GSC MIxS agriculture	fungicide regimen
+ERC000055	320	R	GSC MIxS agriculture	gaseous environment
+ERC000055	592	N	GSC MIxS agriculture	genetic modification
+ERC000055	530	Y	GSC MIxS agriculture	geographic location (country and/or sea)
+ERC000055	486	N	GSC MIxS agriculture	geographic location (latitude)
+ERC000055	494	N	GSC MIxS agriculture	geographic location (longitude)
+ERC000055	531	N	GSC MIxS agriculture	geographic location (region and locality)
+ERC000055	283	R	GSC MIxS agriculture	herbicide regimen
+ERC000055	488	N	GSC MIxS agriculture	history/agrochemical additions
+ERC000055	371	R	GSC MIxS agriculture	history/crop rotation
+ERC000055	390	R	GSC MIxS agriculture	history/extreme events
+ERC000055	153	R	GSC MIxS agriculture	history/fire
+ERC000055	252	R	GSC MIxS agriculture	history/flooding
+ERC000055	431	R	GSC MIxS agriculture	history/previous land use
+ERC000055	228	R	GSC MIxS agriculture	history/tillage
+ERC000055	200	R	GSC MIxS agriculture	horizon method
+ERC000055	77	N	GSC MIxS agriculture	host age
+ERC000055	253	N	GSC MIxS agriculture	host common name
+ERC000055	321	R	GSC MIxS agriculture	host disease status
+ERC000055	176	N	GSC MIxS agriculture	host dry mass
+ERC000055	177	N	GSC MIxS agriculture	host genotype
+ERC000055	130	N	GSC MIxS agriculture	host height
+ERC000055	131	N	GSC MIxS agriculture	host length
+ERC000055	231	N	GSC MIxS agriculture	host life stage
+ERC000055	204	N	GSC MIxS agriculture	host phenotype
+ERC000055	341	N	GSC MIxS agriculture	host scientific name
+ERC000055	786	N	GSC MIxS agriculture	host specificity or range
+ERC000055	775	N	GSC MIxS agriculture	host subspecific genetic lineage
+ERC000055	117	N	GSC MIxS agriculture	host taxid
+ERC000055	236	N	GSC MIxS agriculture	host total mass
+ERC000055	82	R	GSC MIxS agriculture	humidity
+ERC000055	491	N	GSC MIxS agriculture	isolation and growth condition
+ERC000055	323	N	GSC MIxS agriculture	known pathogenicity
+ERC000055	454	N	GSC MIxS agriculture	library construction method
+ERC000055	900	N	GSC MIxS agriculture	library preparation kit
+ERC000055	404	N	GSC MIxS agriculture	library reads sequenced
+ERC000055	443	N	GSC MIxS agriculture	library screening strategy
+ERC000055	157	N	GSC MIxS agriculture	library size
+ERC000055	207	N	GSC MIxS agriculture	library vector
+ERC000055	512	N	GSC MIxS agriculture	link to classification information
+ERC000055	455	N	GSC MIxS agriculture	link to climate information
+ERC000055	355	N	GSC MIxS agriculture	local environmental context
+ERC000055	893	N	GSC MIxS agriculture	lot number
+ERC000055	521	N	GSC MIxS agriculture	mean annual precipitation
+ERC000055	519	N	GSC MIxS agriculture	mean annual temperature
+ERC000055	912	N	GSC MIxS agriculture	mean seasonal humidity
+ERC000055	1203	N	GSC MIxS agriculture	mean seasonal precipitation
+ERC000055	1202	N	GSC MIxS agriculture	mean seasonal temperature
+ERC000055	290	N	GSC MIxS agriculture	microbial biomass
+ERC000055	421	N	GSC MIxS agriculture	microbial biomass method
+ERC000055	375	N	GSC MIxS agriculture	multiplex identifiers
+ERC000055	776	N	GSC MIxS agriculture	negative control type
+ERC000055	468	R	GSC MIxS agriculture	non-mineral nutrient regimen
+ERC000055	444	N	GSC MIxS agriculture	nucleic acid amplification
+ERC000055	407	N	GSC MIxS agriculture	nucleic acid extraction
+ERC000055	324	N	GSC MIxS agriculture	number of replicons
+ERC000055	804	N	GSC MIxS agriculture	observed host symbionts
+ERC000055	211	R	GSC MIxS agriculture	organism count
+ERC000055	471	R	GSC MIxS agriculture	oxygenation status of sample
+ERC000055	103	R	GSC MIxS agriculture	pH method
+ERC000055	120	R	GSC MIxS agriculture	pH regimen
+ERC000055	212	N	GSC MIxS agriculture	pcr conditions
+ERC000055	133	N	GSC MIxS agriculture	pcr primers
+ERC000055	159	R	GSC MIxS agriculture	perturbation
+ERC000055	292	R	GSC MIxS agriculture	pesticide regimen
+ERC000055	812	R	GSC MIxS agriculture	photosynthetic activity
+ERC000055	808	R	GSC MIxS agriculture	photosynthetic activity method
+ERC000055	639	N	GSC MIxS agriculture	plant growth medium
+ERC000055	182	R	GSC MIxS agriculture	plant product
+ERC000055	617	R	GSC MIxS agriculture	plant structure
+ERC000055	796	R	GSC MIxS agriculture	plant water delivery method
+ERC000055	46	N	GSC MIxS agriculture	ploidy
+ERC000055	1220	N	GSC MIxS agriculture	pooled DNA extract total
+ERC000055	805	N	GSC MIxS agriculture	porosity
+ERC000055	777	N	GSC MIxS agriculture	positive control type
+ERC000055	502	N	GSC MIxS agriculture	presence of pets, animals, or insects
+ERC000055	498	R	GSC MIxS agriculture	previous land use method
+ERC000055	263	R	GSC MIxS agriculture	profile position
+ERC000055	160	N	GSC MIxS agriculture	project name
+ERC000055	135	N	GSC MIxS agriculture	propagation
+ERC000055	434	R	GSC MIxS agriculture	reference for biomaterial
+ERC000055	394	N	GSC MIxS agriculture	relationship to oxygen
+ERC000055	788	R	GSC MIxS agriculture	relative location of sample
+ERC000055	478	N	GSC MIxS agriculture	relevant electronic resources
+ERC000055	522	N	GSC MIxS agriculture	relevant standard operating procedures
+ERC000055	645	N	GSC MIxS agriculture	rooting medium carbon
+ERC000055	642	N	GSC MIxS agriculture	rooting medium macronutrients
+ERC000055	163	R	GSC MIxS agriculture	salt regimen
+ERC000055	778	N	GSC MIxS agriculture	sample collection device
+ERC000055	779	N	GSC MIxS agriculture	sample collection method
+ERC000055	446	N	GSC MIxS agriculture	sample material processing
+ERC000055	506	R	GSC MIxS agriculture	sample pooling
+ERC000055	410	N	GSC MIxS agriculture	sample storage location
+ERC000055	448	N	GSC MIxS agriculture	sample storage temperature
+ERC000055	537	N	GSC MIxS agriculture	sample volume or weight for DNA extraction
+ERC000055	816	N	GSC MIxS agriculture	season
+ERC000055	343	R	GSC MIxS agriculture	seasonal environment
+ERC000055	395	N	GSC MIxS agriculture	sequence quality check
+ERC000055	807	N	GSC MIxS agriculture	sequencing location
+ERC000055	505	N	GSC MIxS agriculture	sieving
+ERC000055	707	N	GSC MIxS agriculture	single cell or viral particle lysis approach
+ERC000055	708	N	GSC MIxS agriculture	single cell or viral particle lysis kit protocol
+ERC000055	474	N	GSC MIxS agriculture	size-fraction lower threshold
+ERC000055	475	N	GSC MIxS agriculture	size-fraction upper threshold
+ERC000055	164	R	GSC MIxS agriculture	slope aspect
+ERC000055	213	R	GSC MIxS agriculture	slope gradient
+ERC000055	810	R	GSC MIxS agriculture	soil cover
+ERC000055	57	R	GSC MIxS agriculture	soil horizon
+ERC000055	650	N	GSC MIxS agriculture	soil pH
+ERC000055	67	N	GSC MIxS agriculture	soil texture measurement
+ERC000055	214	N	GSC MIxS agriculture	soil texture method
+ERC000055	109	N	GSC MIxS agriculture	soil type
+ERC000055	265	N	GSC MIxS agriculture	soil type method
+ERC000055	507	R	GSC MIxS agriculture	soil_taxonomic/FAO classification
+ERC000055	516	R	GSC MIxS agriculture	soil_taxonomic/local classification
+ERC000055	538	R	GSC MIxS agriculture	soil_taxonomic/local classification method
+ERC000055	266	N	GSC MIxS agriculture	solar irradiance
+ERC000055	459	N	GSC MIxS agriculture	source material identifiers
+ERC000055	809	N	GSC MIxS agriculture	spike-in microbial strain
+ERC000055	396	R	GSC MIxS agriculture	standing water regimen
+ERC000055	460	N	GSC MIxS agriculture	subspecific genetic lineage
+ERC000055	139	N	GSC MIxS agriculture	target gene
+ERC000055	310	N	GSC MIxS agriculture	target subfragment
+ERC000055	703	N	GSC MIxS agriculture	taxonomic classification
+ERC000055	140	N	GSC MIxS agriculture	temperature
+ERC000055	166	R	GSC MIxS agriculture	total carbon
+ERC000055	86	R	GSC MIxS agriculture	total nitrogen concentration
+ERC000055	381	R	GSC MIxS agriculture	total nitrogen content method
+ERC000055	345	R	GSC MIxS agriculture	total organic carbon
+ERC000055	397	R	GSC MIxS agriculture	total organic carbon method
+ERC000055	243	R	GSC MIxS agriculture	total phosphate
+ERC000055	185	R	GSC MIxS agriculture	trophic level
+ERC000055	806	N	GSC MIxS agriculture	water pH
+ERC000055	800	N	GSC MIxS agriculture	water source shared
+ERC000055	437	R	GSC MIxS agriculture	water temperature regimen
+ERC000055	278	R	GSC MIxS agriculture	watering regimen
+
