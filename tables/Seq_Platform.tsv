@@ -1,0 +1,13 @@
+	instrument	count
+0	Illumina_MiSeq	47
+1	Illumina_NovaSeq	16
+2	Illumina_HiSeq	19
+3	Illumina_NextSeq	8
+4	IonTorrent_PGM	3
+5	Roche_454	7
+6	Nanopore_ONT	10
+7	PacBio_Sequel	4
+8	Unknown_Unknown	2
+9	ABI_3130(Sanger)	1
+10	IonTorrent_S5	1
+11	Illumina_NextStep	1
