@@ -12,7 +12,7 @@ mindmap
     ::icon(fa fa-wrench)
         Each repository has its own API and little consistency of each API
         Difficult to query for aquatic environmental samples/raw sequence records from the INSDC archives
-      1/3rd repos. in survey issing important general sample or sequence related metadata
+        1/3rd repos. in survey missing important general sample or sequence related metadata
     {{standards}}
     ::icon(fa-solid fa-language)
         Many repositories have no stated processed metadata standards
