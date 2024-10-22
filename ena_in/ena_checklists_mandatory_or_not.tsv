@@ -1183,6 +1183,48 @@ ERC000036	137	Y	ENA sewage checklist	sewage type
 ERC000036	608	N	ENA sewage checklist	size of the catchment area
 ERC000036	769	R	ENA sewage checklist	surveillance target
 ERC000036	140	N	ENA sewage checklist	temperature
+ERC000053	754	N	Tree of Life Checklist	GAL
+ERC000053	755	N	Tree of Life Checklist	GAL_sample_id
+ERC000053	143	N	Tree of Life Checklist	Latitude End
+ERC000053	190	N	Tree of Life Checklist	Latitude Start
+ERC000053	167	N	Tree of Life Checklist	Longitude End
+ERC000053	220	N	Tree of Life Checklist	Longitude Start
+ERC000053	768	N	Tree of Life Checklist	barcoding center
+ERC000053	145	N	Tree of Life Checklist	bio_material
+ERC000053	147	Y	Tree of Life Checklist	collected_by
+ERC000053	386	Y	Tree of Life Checklist	collecting institution
+ERC000053	224	Y	Tree of Life Checklist	collection date
+ERC000053	751	N	Tree of Life Checklist	culture_or_strain_id
+ERC000053	452	N	Tree of Life Checklist	depth
+ERC000053	493	N	Tree of Life Checklist	elevation
+ERC000053	530	Y	Tree of Life Checklist	geographic location (country and/or sea)
+ERC000053	486	R	Tree of Life Checklist	geographic location (latitude)
+ERC000053	494	R	Tree of Life Checklist	geographic location (longitude)
+ERC000053	531	Y	Tree of Life Checklist	geographic location (region and locality)
+ERC000053	756	Y	Tree of Life Checklist	habitat
+ERC000053	179	N	Tree of Life Checklist	identified_by
+ERC000053	757	N	Tree of Life Checklist	identifier_affiliation
+ERC000053	752	Y	Tree of Life Checklist	lifestage
+ERC000053	577	Y	Tree of Life Checklist	organism part
+ERC000053	765	N	Tree of Life Checklist	original collection date
+ERC000053	766	N	Tree of Life Checklist	original geographic location
+ERC000053	772	N	Tree of Life Checklist	original geographic location (latitude)
+ERC000053	773	N	Tree of Life Checklist	original geographic location (longitude)
+ERC000053	160	Y	Tree of Life Checklist	project name
+ERC000053	781	N	Tree of Life Checklist	proxy biomaterial
+ERC000053	774	N	Tree of Life Checklist	proxy voucher
+ERC000053	753	N	Tree of Life Checklist	relationship
+ERC000053	779	N	Tree of Life Checklist	sample collection method
+ERC000053	770	N	Tree of Life Checklist	sample coordinator
+ERC000053	771	N	Tree of Life Checklist	sample coordinator affiliation
+ERC000053	704	N	Tree of Life Checklist	sample derived from
+ERC000053	758	N	Tree of Life Checklist	sample same as
+ERC000053	764	N	Tree of Life Checklist	sample symbiont of
+ERC000053	39	Y	Tree of Life Checklist	sex
+ERC000053	750	N	Tree of Life Checklist	specimen_id
+ERC000053	267	R	Tree of Life Checklist	specimen_voucher
+ERC000053	763	N	Tree of Life Checklist	symbiont
+ERC000053	762	N	Tree of Life Checklist	tolid
 ERC000055	686	N	GSC MIxS agriculture	16S recovery software
 ERC000055	685	N	GSC MIxS agriculture	16s recovered
 ERC000055	71	N	GSC MIxS agriculture	adapters
@@ -1360,4 +1402,3 @@ ERC000055	806	N	GSC MIxS agriculture	water pH
 ERC000055	800	N	GSC MIxS agriculture	water source shared
 ERC000055	437	R	GSC MIxS agriculture	water temperature regimen
 ERC000055	278	R	GSC MIxS agriculture	watering regimen
-
