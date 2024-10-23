@@ -4,7 +4,6 @@ from DBConnector import DBConnector
 from LLMapi import LLMapi
 from ParsePubMedCentral import ParsePubMedCentral
 from PubMedIdTranslator import PubMedIdTranslator
-from ParseSciHub import ParseSciHub
 from PubMedCitations import PubMedCitations
 from datetime import datetime
 
@@ -60,10 +59,6 @@ class Crawler:
             result = self.__PubMedRequester(ParsePubMedCentral,
                                       PubMedIdTranslator.DOItoPubMedCentral,
                                       PubMedIdTranslator.PubMedCentraltoDOI)
-        if result is None:
-            self.__log.write(f'{datetime.now()} [Message] {self.__DOI}: PubMed Central didn`t responded well. Trying with SciHub...\n')
-            if self.__verbose: print(f'{self.__DOI}: PubMed Central didn`t responded well. Trying with SciHub...')
-            result = self.__SciHubRequester()
             
         if result is None:
             self.__log.write(f'{datetime.now()} [Message] {self.__DOI}: Cannot find given DOI\n')
@@ -122,31 +117,7 @@ class Crawler:
         if self.__verbose: print(f'{self.__DOI}: Saved to database')
         
         return references
-    
-    def __SciHubRequester(self) -> list:
-        try:
-            parser = ParseSciHub(self.__DOI,Crawler.LLM_API,self.__verbose)
-        except Exception as e:
-            self.__log.write(f'{datetime.now()} [Error] {self.__DOI}: Cannot process given ID {e}\n')
-            if self.__verbose: print(f'{self.__DOI}: Cannot process given ID:',e)
-            return None
-        self.__log.write(f'{datetime.now()} [Message] {self.__DOI}: Asking LLM...\n')
-        if self.__verbose: print(f'{self.__DOI}: Asking LLM...')
-        processing = self.__asking__(parser.full_text)
-        self.__log.write(f'{datetime.now()} [Message] {self.__DOI}: LLM responded...\n')
-        if self.__verbose: print(f'{self.__DOI}: LLM responded')
-        params = dict(DOI=self.__DOI,title=parser.Title,content=parser.full_text,ancestor=self.__ancestor,step=self.__step)
-        self.__log.write(f'{datetime.now()} [Message] {self.__DOI}: Processing answers...\n')
-        if self.__verbose: print(f'{self.__DOI}: Processing answers...')
-        references = [doi for doi in parser.References if doi.startswith('10.') and '/' in doi and not doi.endswith('/')]
-        params.update({f'Q{i+1}':resp for i,resp in enumerate(processing)})
-        params['references'] = ','.join(references)
-        Crawler.DB_connector.insert(**params)
-        self.__log.write(f'{datetime.now()} [Message] {self.__DOI}: Saved to database\n')
-        if self.__verbose: print(f'{self.__DOI}: Saved to database')
-        
-        return references
-        
+
     def __asking__(self,text:str=None) -> list:
         ExceptionHandler.checkType(text,'text',str)
         responses = list()
@@ -161,4 +132,3 @@ class Crawler:
         for i in range(1,10):
             responses.append(Crawler.LLM_API.ask(Questions._questions[i],text)['Answer'])
         return responses    
-        
