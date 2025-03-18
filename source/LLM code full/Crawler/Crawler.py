@@ -131,4 +131,4 @@ class Crawler:
             return responses
         for i in range(1,10):
             responses.append(Crawler.LLM_API.ask(Questions._questions[i],text)['Answer'])
-        return responses    
+        return responses
