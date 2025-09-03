@@ -10,3 +10,5 @@
 8. Where are the data stored?
 9. What marker was  used in experiment?
 10. What reference database was used for taxonomic assignment?
+
+More information can be found in descriptors.tsv

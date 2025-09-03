@@ -1,0 +1,14 @@
+ATTRIBUTE NAME	TYPE	DESCRIPTION	EXPECTED ANSWER
+ID	Integer	Ordinal number	1,2,3…
+DOI	Text	DOI number of an article. If there is no DOI number, put another available article identifier with proper annotation.	Hyperlink/Identifier/Free text
+Material and Methods section	Text	Copy here full content of the "Materials and Methods" section from the paper.	Free text
+Are the data in this paper environmental?	Text	Are the data in this paper eDNA data?	Yes/No/Free text
+Are the data available in paper or suplement?	Text	Indicates if the data is available in paper or in suplement. If it is available in another place - explaination where is it.	Paper/Suplement/Free text
+What is the sample collection method?	Text	Full description of the process of sample collection method.	Free text
+What is the DNA extraction method?	Text	Full description of the process of DNA extraction method.	Free text
+What is the source of the protocol in protocols.io?	Text	Reference to the source of the protocol. If there is no reference an explaination why is that and description of the protocol.	Hyperlink/Free text
+What is the overall sequencing strategy used in experiment?	Text	Description of the sequencing strategy in the paper. 	Free text
+What is the sequence analysis workflow?	Text	Full description of the sequencing analysis workflow detailing bioinformatic steps.	Free text
+Where is the data stored?	Text	Link or explaination where is the data/metadata stored. If the data is splitted some way explaination how and links to every parts.	Hyperlink/Free text
+What is the marker name used in experiment?	Text	Name of the marker used for barcoding. If there are several, indicate each of them.	16S/COI/.../16S,COI,…
+What is the reference databse used for taxonomical identification?	Text	Full explaination about taxanomical identification: what is the reference database, an algorithm used, parameters, any curation methods.	Free text
