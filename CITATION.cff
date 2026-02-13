@@ -3,15 +3,11 @@ title: "eDNAqua-Plan project WP2"
 message: "If you use this project, please cite it using the metadata from this file."
 type: dataset
 authors:
-
 family-names: "eDNAqua-Plan Consortium"
 given-names: "Members of"
-affiliation: "eDNAqua-plan - A Plan towards an eDNA reference library and data repository for Aquatic Organisms, navigating Europe towards the next generation biodiversity monitoring"
-
-
+affiliation: "eDNAqua-Plan – A Plan towards an eDNA reference library and data repository for Aquatic Organisms, navigating Europe towards the next generation biodiversity monitoring"
 abstract: "Metadata and outputs from the eDNAqua-Plan project WP2."
 keywords:
-
 eDNA
 biodiversity
 molecular markers
@@ -19,11 +15,8 @@ bioinformatics
 license: "Apache-2.0"
 version: "1.0.0"
 identifiers:
-  - type: doi
-    value: https://zenodo.org/records/17143114
-
+type: doi
+value: "10.5281/zenodo.17143114"
 date-released: 2026-02-13
-
 repository-code: "https://github.com/eDNAqua-Plan-project/wp2/"
-
 url: "https://github.com/eDNAqua-Plan-project/wp2/"
