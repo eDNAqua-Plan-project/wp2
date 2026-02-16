@@ -1,8 +1,10 @@
 # eDNAqua-Plan WP2
-The eDNAqua-Plan is plan for a European eDNA digital ecosystem for the next generation of aquatic biodiversity monitoring
-The code and data contributing to the activities of WP2.
+The eDNAqua-Plan is plan for a European eDNA digital ecosystem for the next generation of aquatic biodiversity monitoring. 
+The code and data contributing to the activities of WP2 are present here.
 
-These are three tasks for WP2:
+Several papers were also written based on data and analysis from this work page.
+
+These were three tasks for WP2:
 - T2.1: Inventory, overview and gap analysis of DNA barcoding initiatives and reference libraries
 - T2.2: Inventory, overview and gap analysis of eDNA initiatives and repositories
     [see T2.2 README](docs/T2.2_README.md)
